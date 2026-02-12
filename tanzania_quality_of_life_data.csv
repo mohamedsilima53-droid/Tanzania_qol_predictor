@@ -1,0 +1,1001 @@
+age,region,urban_rural,education_level,employment_status,monthly_income_tzs,family_size,distance_to_hospital_km,distance_to_school_km,access_to_clean_water,electricity_access,housing_type,years_of_education,number_of_rooms,health_insurance,health_score,education_score,housing_score,quality_of_life_score
+56,Mwanza,Rural,No Education,Self-employed,2229382,9,7.36,11.64,1,1,Brick/Iron Sheet,9,4,0,100.0,7.31,100.0,67.56
+69,Mwanza,Rural,College,Unemployed,2543869,5,11.06,0.38,0,1,Brick/Iron Sheet,12,2,0,100.0,100.0,100.0,100.0
+46,Kilimanjaro,Urban,Primary,Government,847948,5,16.87,11.23,1,0,Concrete/Modern,14,5,0,81.95,27.25,100.0,68.22
+32,Tanga,Urban,Primary,Self-employed,2659244,4,3.02,1.29,0,1,Brick/Iron Sheet,17,5,1,100.0,56.99,100.0,84.95
+60,Mbeya,Rural,Primary,Self-employed,2499940,9,3.52,6.74,0,1,Brick/Iron Sheet,3,1,1,100.0,66.18,99.65,88.06
+25,Mtwara,Rural,Primary,Self-employed,1328312,5,0.01,1.85,0,0,Concrete/Modern,16,4,0,88.4,52.31,100.0,79.25
+38,Tanga,Urban,University,Unemployed,931635,2,32.99,9.79,1,1,Brick/Iron Sheet,2,5,1,93.31,100.0,100.0,97.66
+56,Kilimanjaro,Rural,Secondary,Private Sector,1477397,8,24.96,6.03,1,0,Mud/Thatch,1,2,1,94.77,55.96,74.77,75.19
+36,Dar es Salaam,Urban,No Education,Private Sector,1567217,7,14.46,2.57,1,1,Mud/Thatch,3,1,0,100.0,18.54,87.13,67.63
+40,Tanga,Rural,Secondary,Private Sector,2844686,8,0.82,0.4,0,1,Brick/Iron Sheet,0,2,0,100.0,81.76,100.0,93.61
+28,Morogoro,Urban,Primary,Unemployed,331414,3,5.93,6.6,0,1,Brick/Iron Sheet,14,3,0,77.79,19.69,98.59,63.69
+28,Mtwara,Urban,No Education,Private Sector,356812,4,1.07,4.8,1,0,Brick/Iron Sheet,0,1,0,100.0,0.0,92.32,62.7
+41,Kilimanjaro,Urban,University,Private Sector,2163729,5,0.16,0.01,1,0,Mud/Thatch,5,1,1,100.0,100.0,61.08,88.33
+53,Dar es Salaam,Rural,Secondary,Government,2502110,6,9.58,0.05,0,0,Brick/Iron Sheet,6,5,0,100.0,87.91,100.0,95.77
+57,Dodoma,Rural,University,Self-employed,1743083,1,32.4,8.27,1,0,Brick/Iron Sheet,11,3,0,82.93,99.14,100.0,93.72
+41,Kilimanjaro,Urban,Primary,Self-employed,2115726,4,23.32,1.5,1,0,Concrete/Modern,0,5,0,100.0,55.3,100.0,84.36
+20,Dodoma,Urban,Secondary,Private Sector,2368108,5,11.93,5.05,1,1,Brick/Iron Sheet,6,4,0,100.0,83.65,100.0,94.28
+39,Mtwara,Rural,Primary,Private Sector,1506065,7,1.02,3.03,1,0,Concrete/Modern,12,2,0,100.0,53.7,100.0,83.79
+19,Mwanza,Urban,Primary,Self-employed,1510808,5,3.2,9.95,1,1,Concrete/Modern,11,2,0,100.0,41.81,100.0,79.63
+41,Kilimanjaro,Urban,College,Self-employed,955754,1,3.86,12.44,1,0,Mud/Thatch,11,5,0,91.75,61.46,100.0,83.62
+61,Arusha,Rural,Primary,Self-employed,121650,7,14.4,28.74,0,1,Brick/Iron Sheet,12,2,1,84.83,0.0,74.99,52.19
+47,Dodoma,Urban,College,Government,1504962,8,16.21,0.83,1,1,Concrete/Modern,13,2,1,100.0,98.17,100.0,99.36
+55,Morogoro,Rural,Secondary,Self-employed,1973204,7,4.86,9.94,1,1,Concrete/Modern,11,4,1,100.0,73.34,100.0,90.67
+19,Arusha,Rural,Primary,Government,1319309,4,5.41,1.55,0,1,Brick/Iron Sheet,11,3,1,100.0,54.48,100.0,84.07
+38,Zanzibar,Rural,Secondary,Self-employed,2439189,8,0.46,4.47,1,0,Concrete/Modern,5,1,1,100.0,79.95,100.0,92.98
+50,Zanzibar,Urban,Secondary,Government,306251,5,3.41,3.52,1,1,Mud/Thatch,9,5,0,84.21,67.4,70.09,74.09
+29,Dar es Salaam,Urban,Primary,Government,2731383,9,6.0,0.09,1,1,Brick/Iron Sheet,8,5,0,100.0,53.1,100.0,83.59
+39,Mwanza,Rural,College,Self-employed,2218194,5,1.24,13.5,0,1,Brick/Iron Sheet,1,4,0,100.0,83.26,100.0,94.14
+61,Mtwara,Rural,Secondary,Government,1925706,1,6.04,0.41,1,1,Brick/Iron Sheet,6,4,0,100.0,68.35,100.0,88.92
+42,Kilimanjaro,Rural,Primary,Unemployed,1078582,9,19.19,5.83,1,1,Mud/Thatch,8,1,0,90.11,40.58,71.88,67.3
+66,Mbeya,Urban,Secondary,Government,418903,5,8.71,7.69,0,1,Brick/Iron Sheet,11,3,1,69.54,64.39,91.23,74.25
+44,Morogoro,Rural,University,Private Sector,1516693,6,0.82,7.93,1,1,Mud/Thatch,4,5,0,100.0,92.72,98.73,97.07
+59,Dodoma,Rural,Primary,Unemployed,1979314,4,2.13,0.73,1,1,Brick/Iron Sheet,0,4,0,100.0,54.97,100.0,84.24
+45,Mtwara,Rural,College,Private Sector,994801,6,6.43,2.97,1,1,Concrete/Modern,14,5,0,100.0,89.68,100.0,96.39
+33,Arusha,Rural,Primary,Student,1824854,8,4.49,8.84,0,0,Concrete/Modern,7,2,0,100.0,48.49,100.0,81.97
+32,Zanzibar,Rural,Secondary,Unemployed,914811,3,4.44,1.8,1,0,Brick/Iron Sheet,0,5,1,100.0,59.29,100.0,85.75
+64,Morogoro,Rural,Secondary,Private Sector,482811,5,7.53,3.15,1,1,Brick/Iron Sheet,17,3,0,73.18,72.44,100.0,80.97
+68,Mbeya,Rural,Primary,Private Sector,601691,2,8.78,1.59,1,1,Brick/Iron Sheet,12,3,0,74.27,47.77,100.0,72.72
+61,Kilimanjaro,Urban,Primary,Government,1108314,2,15.94,3.11,1,0,Mud/Thatch,0,5,0,82.48,34.85,88.25,67.54
+69,Dar es Salaam,Urban,Secondary,Self-employed,314304,7,4.17,10.94,1,0,Brick/Iron Sheet,4,2,1,76.19,49.07,84.9,69.32
+20,Mbeya,Rural,Primary,Self-employed,2593330,6,16.37,3.04,0,1,Mud/Thatch,17,3,0,100.0,65.0,92.8,85.59
+54,Morogoro,Urban,Secondary,Unemployed,1817787,4,4.13,4.06,1,1,Concrete/Modern,15,4,0,100.0,68.29,100.0,88.9
+68,Mbeya,Rural,No Education,Private Sector,2052634,5,0.57,2.59,0,0,Concrete/Modern,9,5,1,100.0,13.23,100.0,69.63
+24,Morogoro,Rural,College,Self-employed,2636115,1,8.08,3.08,1,1,Brick/Iron Sheet,3,2,0,100.0,100.0,100.0,100.0
+38,Morogoro,Rural,Secondary,Government,1011612,7,8.86,0.08,0,1,Brick/Iron Sheet,0,4,0,94.44,91.51,86.9,91.15
+26,Tanga,Urban,College,Unemployed,2511645,8,27.26,1.67,1,1,Mud/Thatch,7,5,0,100.0,100.0,100.0,100.0
+56,Dodoma,Urban,No Education,Private Sector,301904,9,12.95,2.87,1,1,Brick/Iron Sheet,4,2,1,100.0,1.57,85.63,61.24
+35,Zanzibar,Urban,Secondary,Unemployed,811716,8,24.98,5.02,1,1,Brick/Iron Sheet,1,4,0,85.37,77.96,100.0,87.16
+21,Tanga,Rural,Secondary,Unemployed,2867257,5,23.9,2.99,0,0,Brick/Iron Sheet,16,3,0,100.0,89.49,100.0,96.32
+42,Kilimanjaro,Rural,Primary,Self-employed,2202882,3,9.28,2.06,0,1,Mud/Thatch,6,5,0,100.0,71.4,92.33,87.69
+31,Tanga,Rural,Primary,Self-employed,1555713,9,7.5,2.46,0,0,Concrete/Modern,16,5,0,100.0,50.62,100.0,82.72
+67,Mwanza,Rural,No Education,Private Sector,2935623,6,8.15,1.39,1,1,Brick/Iron Sheet,5,3,0,100.0,31.11,100.0,75.89
+26,Mwanza,Rural,Secondary,Government,1799660,5,38.32,12.92,0,0,Concrete/Modern,14,1,0,89.67,56.31,100.0,81.09
+43,Zanzibar,Rural,Secondary,Private Sector,2016541,3,14.84,3.69,0,1,Concrete/Modern,4,4,0,100.0,73.04,100.0,90.56
+19,Mbeya,Urban,No Education,Student,445430,6,1.12,0.07,0,0,Concrete/Modern,14,3,0,83.6,0.0,93.49,57.31
+37,Dodoma,Rural,Secondary,Government,928411,3,15.07,0.1,1,1,Mud/Thatch,17,5,0,90.35,76.86,97.94,87.91
+45,Zanzibar,Rural,Primary,Private Sector,1957845,6,1.87,18.05,0,0,Mud/Thatch,17,4,0,100.0,27.52,69.32,65.43
+64,Morogoro,Urban,No Education,Government,2605365,4,5.93,1.25,0,1,Brick/Iron Sheet,5,4,0,100.0,35.16,100.0,77.3
+24,Arusha,Rural,University,Private Sector,2039983,2,2.36,8.19,0,1,Mud/Thatch,1,1,0,100.0,100.0,73.54,92.06
+61,Dodoma,Urban,University,Unemployed,2897551,8,11.7,0.3,1,1,Brick/Iron Sheet,16,5,0,100.0,100.0,100.0,100.0
+25,Dodoma,Rural,Secondary,Private Sector,1669186,4,20.98,12.7,1,1,Brick/Iron Sheet,3,2,1,100.0,51.77,100.0,83.12
+64,Morogoro,Rural,No Education,Unemployed,2218075,9,3.43,10.37,1,0,Brick/Iron Sheet,11,1,0,100.0,0.0,100.0,65.0
+52,Morogoro,Rural,Secondary,Private Sector,947405,7,0.86,4.23,1,1,Brick/Iron Sheet,1,1,0,97.15,61.57,100.0,85.55
+31,Dar es Salaam,Rural,Primary,Private Sector,1544679,2,3.55,0.05,1,1,Concrete/Modern,1,2,0,100.0,50.43,100.0,82.65
+34,Zanzibar,Rural,Primary,Unemployed,2391947,4,11.16,1.49,1,1,Mud/Thatch,13,2,0,100.0,47.91,97.38,80.98
+53,Morogoro,Rural,Primary,Self-employed,333462,5,3.99,2.61,1,1,Brick/Iron Sheet,14,1,1,91.33,45.19,73.8,69.92
+67,Mwanza,Rural,Secondary,Government,2248565,3,3.26,3.08,1,1,Brick/Iron Sheet,1,4,0,100.0,76.95,100.0,91.93
+57,Kilimanjaro,Rural,Secondary,Private Sector,2068921,9,2.04,1.77,1,1,Concrete/Modern,3,3,0,100.0,75.7,100.0,91.49
+21,Arusha,Urban,Primary,Self-employed,2750196,5,6.88,0.17,1,1,Brick/Iron Sheet,8,3,0,100.0,70.69,100.0,89.74
+19,Zanzibar,Rural,Secondary,Private Sector,1482296,2,3.23,4.46,1,1,Mud/Thatch,6,1,0,100.0,74.79,82.96,86.07
+23,Mtwara,Urban,College,Private Sector,1421024,3,13.13,3.71,1,1,Brick/Iron Sheet,12,4,0,100.0,99.92,100.0,99.97
+59,Mwanza,Rural,Primary,Self-employed,510226,9,0.8,1.66,1,1,Mud/Thatch,11,2,0,74.32,37.23,57.61,56.32
+21,Mbeya,Rural,Secondary,Student,1275615,7,10.91,0.19,0,0,Mud/Thatch,2,1,1,100.0,74.64,37.9,72.49
+46,Morogoro,Rural,College,Private Sector,1864694,2,2.71,26.1,0,0,Brick/Iron Sheet,12,5,1,100.0,48.03,100.0,81.81
+35,Mtwara,Rural,Primary,Self-employed,1835594,9,6.72,3.29,1,0,Brick/Iron Sheet,14,4,0,100.0,42.24,100.0,79.78
+43,Morogoro,Rural,Primary,Government,2377226,4,3.37,7.05,0,0,Brick/Iron Sheet,13,5,0,100.0,34.81,100.0,77.18
+61,Dodoma,Rural,Secondary,Government,1907254,9,12.83,3.01,1,1,Brick/Iron Sheet,8,5,1,100.0,95.19,100.0,98.32
+51,Mwanza,Rural,Secondary,Unemployed,756735,2,29.06,0.22,0,1,Concrete/Modern,12,1,0,78.77,82.58,100.0,86.47
+27,Dodoma,Rural,College,Self-employed,1772349,4,24.9,1.85,0,0,Concrete/Modern,3,4,0,100.0,89.71,100.0,96.4
+53,Dar es Salaam,Urban,Primary,Self-employed,908524,5,8.76,1.93,1,1,Brick/Iron Sheet,7,5,1,100.0,39.53,100.0,78.84
+31,Dodoma,Urban,University,Private Sector,231562,2,6.21,9.11,1,1,Brick/Iron Sheet,2,4,0,77.43,87.36,100.0,87.68
+48,Dar es Salaam,Rural,No Education,Private Sector,1152305,1,17.05,5.31,1,1,Brick/Iron Sheet,1,3,0,93.37,25.79,100.0,71.71
+65,Dar es Salaam,Urban,No Education,Private Sector,1809910,7,11.5,1.61,0,1,Brick/Iron Sheet,7,5,0,93.55,23.85,100.0,71.09
+32,Mtwara,Rural,Secondary,Government,2839662,1,2.03,17.17,0,1,Brick/Iron Sheet,16,5,0,100.0,64.22,100.0,87.48
+25,Morogoro,Rural,Primary,Private Sector,1495936,8,17.2,1.94,1,1,Brick/Iron Sheet,12,4,1,100.0,48.22,100.0,81.88
+31,Mbeya,Rural,Primary,Unemployed,2805300,3,5.6,31.7,1,0,Brick/Iron Sheet,6,3,0,100.0,0.0,100.0,65.0
+40,Dodoma,Rural,Primary,Self-employed,358360,6,2.09,27.82,1,0,Brick/Iron Sheet,8,5,1,100.0,0.0,75.47,57.64
+57,Mwanza,Rural,Primary,Self-employed,2556166,7,3.31,1.06,1,0,Mud/Thatch,11,1,0,100.0,45.32,75.47,73.5
+38,Dar es Salaam,Rural,No Education,Self-employed,2493946,1,3.11,1.88,1,0,Brick/Iron Sheet,13,4,0,100.0,7.35,100.0,67.57
+33,Morogoro,Rural,University,Private Sector,728177,6,7.32,3.33,1,1,Brick/Iron Sheet,13,4,0,100.0,100.0,100.0,100.0
+62,Arusha,Rural,Primary,Government,460306,7,2.67,5.45,1,1,Brick/Iron Sheet,14,5,0,100.0,31.21,100.0,75.92
+35,Zanzibar,Rural,Secondary,Self-employed,1604558,6,1.32,3.75,0,1,Brick/Iron Sheet,2,3,0,85.8,69.24,95.7,82.98
+64,Mtwara,Urban,Secondary,Private Sector,2824274,4,1.32,17.44,1,1,Brick/Iron Sheet,14,5,0,100.0,53.5,100.0,83.73
+41,Mbeya,Rural,University,Private Sector,1558857,1,8.75,6.44,1,0,Brick/Iron Sheet,13,2,1,100.0,99.16,100.0,99.71
+43,Tanga,Rural,No Education,Self-employed,1694502,9,13.27,1.19,0,1,Brick/Iron Sheet,7,5,1,100.0,18.96,100.0,71.64
+42,Mtwara,Rural,College,Unemployed,1588303,4,3.88,0.56,1,1,Brick/Iron Sheet,4,2,0,93.99,100.0,100.0,97.9
+62,Arusha,Urban,Secondary,Self-employed,1888243,7,0.35,5.83,0,0,Mud/Thatch,3,1,0,100.0,62.51,51.77,72.41
+58,Zanzibar,Rural,Secondary,Unemployed,618490,7,1.36,0.86,1,0,Brick/Iron Sheet,13,4,1,99.76,60.62,75.69,78.84
+46,Arusha,Urban,Secondary,Government,1904933,2,24.62,7.75,0,1,Brick/Iron Sheet,15,4,0,94.97,65.03,100.0,86.0
+32,Dodoma,Urban,College,Unemployed,2173946,1,6.8,1.86,1,1,Brick/Iron Sheet,5,3,0,100.0,100.0,100.0,100.0
+62,Dar es Salaam,Rural,Primary,Self-employed,2750760,8,6.04,1.98,0,1,Brick/Iron Sheet,5,5,1,100.0,43.59,100.0,80.26
+18,Mbeya,Rural,Secondary,Self-employed,2660244,8,0.39,0.05,1,1,Concrete/Modern,2,1,0,100.0,85.09,100.0,94.78
+42,Kilimanjaro,Rural,Secondary,Student,134924,7,13.04,6.04,1,1,Concrete/Modern,14,2,0,78.63,62.33,100.0,79.34
+24,Dar es Salaam,Rural,Secondary,Unemployed,1361368,8,7.51,0.6,1,0,Mud/Thatch,2,3,0,90.43,62.91,53.98,69.86
+26,Kilimanjaro,Rural,University,Unemployed,1582526,3,2.26,7.41,1,0,Concrete/Modern,10,1,0,100.0,100.0,100.0,100.0
+41,Zanzibar,Rural,Primary,Unemployed,2003124,2,1.17,3.39,1,1,Brick/Iron Sheet,2,1,0,100.0,56.94,100.0,84.93
+18,Morogoro,Urban,University,Unemployed,2892537,7,4.84,7.67,1,1,Brick/Iron Sheet,9,2,0,100.0,100.0,100.0,100.0
+61,Tanga,Rural,No Education,Self-employed,2160583,8,18.15,4.38,0,1,Mud/Thatch,17,2,1,100.0,19.99,67.29,62.19
+25,Mwanza,Rural,No Education,Private Sector,2770380,1,20.05,0.43,0,1,Concrete/Modern,0,4,0,100.0,31.3,100.0,75.96
+41,Dar es Salaam,Rural,No Education,Self-employed,570192,9,9.23,7.25,0,1,Mud/Thatch,15,5,0,95.68,2.38,70.23,55.39
+28,Mbeya,Rural,Primary,Unemployed,1687542,4,13.0,0.36,0,1,Concrete/Modern,15,3,0,91.99,61.89,100.0,83.86
+68,Arusha,Rural,Secondary,Government,2637572,4,1.22,3.26,1,1,Mud/Thatch,9,5,1,100.0,96.32,98.19,98.17
+34,Mbeya,Urban,No Education,Self-employed,762132,3,8.87,0.95,0,1,Brick/Iron Sheet,0,3,1,88.14,0.0,100.0,60.85
+25,Zanzibar,Rural,No Education,Self-employed,1740027,6,11.0,6.98,1,0,Brick/Iron Sheet,3,1,1,100.0,0.0,100.0,65.0
+52,Kilimanjaro,Rural,University,Self-employed,2962480,1,2.24,12.13,1,1,Mud/Thatch,2,2,0,100.0,100.0,100.0,100.0
+52,Arusha,Urban,College,Student,2926267,6,21.22,4.04,1,1,Mud/Thatch,4,2,1,100.0,100.0,98.16,99.45
+50,Mwanza,Urban,College,Unemployed,254536,2,2.17,3.74,1,1,Brick/Iron Sheet,11,1,0,84.24,76.49,95.21,84.82
+22,Mwanza,Rural,College,Government,675425,9,3.76,7.22,1,0,Mud/Thatch,11,1,0,88.6,74.3,49.72,71.93
+59,Dar es Salaam,Urban,Secondary,Private Sector,523448,2,9.69,0.03,0,1,Brick/Iron Sheet,12,3,0,79.08,83.86,86.34,82.93
+56,Zanzibar,Rural,No Education,Unemployed,2698385,7,10.17,12.49,0,1,Brick/Iron Sheet,11,1,0,100.0,22.22,100.0,72.78
+58,Morogoro,Rural,Primary,Student,2140104,1,12.02,1.1,1,1,Concrete/Modern,15,3,1,100.0,65.76,100.0,88.02
+45,Zanzibar,Urban,Secondary,Self-employed,724773,7,1.19,20.71,1,1,Brick/Iron Sheet,12,5,0,99.96,35.44,93.27,75.37
+24,Kilimanjaro,Rural,Primary,Unemployed,2117528,5,18.94,6.66,1,0,Mud/Thatch,4,2,0,100.0,19.01,78.46,65.19
+26,Mbeya,Rural,Secondary,Government,1778332,8,7.61,7.44,1,1,Brick/Iron Sheet,3,2,0,100.0,68.46,100.0,88.96
+25,Mwanza,Rural,No Education,Private Sector,1102021,4,6.37,5.34,1,1,Brick/Iron Sheet,14,2,0,100.0,0.0,93.17,62.95
+29,Mbeya,Urban,Primary,Private Sector,2198053,7,39.68,3.19,1,1,Concrete/Modern,11,5,0,100.0,36.64,100.0,77.83
+51,Mbeya,Urban,Secondary,Unemployed,2285132,6,13.49,4.24,0,0,Concrete/Modern,10,5,0,100.0,85.52,100.0,94.93
+50,Mbeya,Rural,Secondary,Self-employed,1518314,5,1.26,0.24,1,0,Brick/Iron Sheet,5,4,0,98.55,67.69,100.0,88.18
+65,Mwanza,Rural,Secondary,Private Sector,889313,4,14.13,4.89,1,1,Mud/Thatch,8,3,0,91.59,60.11,68.01,73.5
+40,Mtwara,Rural,Secondary,Self-employed,392007,7,1.0,4.92,0,1,Concrete/Modern,0,3,1,88.38,58.62,100.0,81.45
+41,Dodoma,Rural,No Education,Self-employed,2963874,5,0.28,11.09,0,1,Concrete/Modern,11,4,1,100.0,31.17,100.0,75.91
+54,Kilimanjaro,Rural,No Education,Unemployed,2595990,5,5.17,3.52,1,0,Concrete/Modern,13,2,1,100.0,19.38,100.0,71.78
+52,Mtwara,Urban,College,Unemployed,2713108,1,50.48,0.4,1,1,Concrete/Modern,5,3,1,100.0,100.0,100.0,100.0
+61,Kilimanjaro,Rural,Secondary,Government,1624960,2,1.92,1.83,0,1,Brick/Iron Sheet,0,3,0,89.57,75.99,100.0,87.95
+57,Arusha,Rural,No Education,Self-employed,2684215,5,11.17,5.33,1,0,Mud/Thatch,1,2,1,100.0,6.2,98.15,66.62
+39,Zanzibar,Rural,College,Student,2923698,3,1.9,1.37,0,1,Brick/Iron Sheet,10,1,0,100.0,100.0,100.0,100.0
+44,Zanzibar,Rural,Primary,Self-employed,2448991,2,12.9,1.65,1,1,Brick/Iron Sheet,2,1,1,100.0,56.99,100.0,84.95
+52,Tanga,Urban,Primary,Private Sector,1469971,4,7.04,8.59,0,1,Brick/Iron Sheet,9,4,0,100.0,37.68,100.0,78.19
+18,Zanzibar,Urban,No Education,Self-employed,696860,4,11.39,4.39,1,0,Brick/Iron Sheet,5,5,1,100.0,4.73,93.19,64.61
+52,Mwanza,Rural,Secondary,Self-employed,1712119,4,2.27,3.55,1,1,Brick/Iron Sheet,5,3,0,85.33,81.14,100.0,88.26
+54,Morogoro,Rural,Secondary,Unemployed,487773,4,13.69,1.92,1,0,Brick/Iron Sheet,1,3,0,100.0,69.2,86.3,85.11
+64,Dar es Salaam,Rural,Primary,Self-employed,2182816,3,54.3,6.56,0,0,Brick/Iron Sheet,9,4,0,78.96,35.83,100.0,70.18
+31,Tanga,Rural,College,Self-employed,122499,7,10.96,1.7,1,0,Mud/Thatch,5,4,0,83.15,93.3,50.91,77.03
+20,Dar es Salaam,Rural,Primary,Student,726840,9,6.8,6.68,1,1,Brick/Iron Sheet,16,3,1,100.0,47.6,90.08,78.68
+18,Kilimanjaro,Urban,Primary,Private Sector,544844,5,25.66,0.36,1,0,Concrete/Modern,13,2,0,74.45,30.74,100.0,66.82
+22,Dar es Salaam,Rural,Primary,Unemployed,1734224,4,0.16,10.0,1,1,Concrete/Modern,4,2,0,100.0,31.0,100.0,75.85
+43,Dar es Salaam,Urban,Primary,Unemployed,1546395,2,13.09,3.46,1,0,Brick/Iron Sheet,16,5,1,100.0,25.99,100.0,74.1
+31,Tanga,Urban,No Education,Unemployed,2683677,2,21.96,2.89,1,0,Brick/Iron Sheet,1,3,0,100.0,23.88,100.0,73.36
+56,Arusha,Rural,Secondary,Private Sector,971905,5,0.64,4.72,0,1,Mud/Thatch,8,3,0,71.17,71.26,81.63,74.34
+44,Mbeya,Rural,College,Private Sector,243704,7,5.98,4.89,0,0,Brick/Iron Sheet,11,3,0,53.43,70.46,61.04,61.67
+26,Zanzibar,Rural,Secondary,Government,2883119,9,2.29,0.71,1,1,Brick/Iron Sheet,6,3,0,100.0,95.03,100.0,98.26
+32,Zanzibar,Urban,Primary,Unemployed,1240449,7,8.36,7.06,0,0,Brick/Iron Sheet,8,4,1,93.59,20.72,87.62,66.29
+32,Mwanza,Urban,No Education,Self-employed,165756,5,10.49,1.61,1,0,Concrete/Modern,15,1,1,100.0,6.98,100.0,67.44
+43,Tanga,Urban,Primary,Self-employed,2637362,6,3.6,11.77,1,0,Brick/Iron Sheet,10,3,1,100.0,34.47,100.0,77.07
+59,Mwanza,Urban,Primary,Private Sector,1467064,3,6.16,8.51,1,1,Mud/Thatch,11,1,0,100.0,39.21,71.39,70.14
+30,Morogoro,Rural,Secondary,Private Sector,1270473,5,3.28,2.13,0,0,Mud/Thatch,14,2,0,93.92,71.2,46.78,71.82
+68,Morogoro,Urban,Primary,Private Sector,620082,8,4.61,8.24,0,1,Brick/Iron Sheet,17,5,0,68.37,13.15,88.67,55.13
+49,Mwanza,Rural,Secondary,Private Sector,2496640,1,1.74,2.2,1,1,Brick/Iron Sheet,15,2,1,100.0,93.33,100.0,97.67
+56,Tanga,Urban,College,Unemployed,1143361,1,21.68,0.53,1,1,Concrete/Modern,14,3,0,78.63,89.36,100.0,88.8
+66,Mwanza,Urban,Primary,Private Sector,2280943,7,0.1,16.34,1,1,Brick/Iron Sheet,4,2,0,100.0,34.93,100.0,77.22
+69,Zanzibar,Urban,College,Unemployed,1828235,5,21.41,5.29,0,1,Brick/Iron Sheet,10,4,0,74.35,84.07,99.61,85.33
+49,Mtwara,Rural,Secondary,Private Sector,2900487,5,8.48,3.04,0,1,Brick/Iron Sheet,14,1,0,100.0,85.6,100.0,94.96
+21,Dodoma,Rural,Secondary,Self-employed,2025464,1,4.03,2.54,0,0,Brick/Iron Sheet,17,3,1,100.0,79.36,100.0,92.78
+47,Dar es Salaam,Rural,Secondary,Self-employed,2016796,9,12.84,1.96,1,0,Brick/Iron Sheet,12,4,0,100.0,68.59,100.0,89.01
+54,Dodoma,Rural,Primary,Government,1386188,1,7.09,19.94,0,0,Brick/Iron Sheet,3,1,0,73.25,5.76,100.0,57.65
+40,Tanga,Rural,Primary,Government,533797,5,6.91,0.72,0,0,Brick/Iron Sheet,16,4,0,83.46,35.25,67.6,61.83
+56,Dodoma,Urban,Primary,Government,900607,9,1.17,1.89,0,0,Brick/Iron Sheet,3,2,1,100.0,34.83,91.4,74.61
+62,Morogoro,Urban,Primary,Self-employed,2187784,4,4.94,3.32,0,1,Concrete/Modern,15,3,0,89.87,54.69,100.0,80.6
+32,Kilimanjaro,Rural,Secondary,Private Sector,2334415,8,2.76,3.25,1,1,Brick/Iron Sheet,14,2,0,100.0,80.53,100.0,93.18
+60,Dar es Salaam,Rural,No Education,Self-employed,2542730,6,0.16,3.19,1,1,Mud/Thatch,13,5,0,100.0,30.78,100.0,75.77
+46,Mbeya,Urban,College,Government,1884094,3,4.46,0.97,0,0,Mud/Thatch,11,3,0,100.0,92.86,76.71,90.51
+53,Tanga,Rural,Secondary,Self-employed,1002153,4,0.94,0.78,0,0,Mud/Thatch,2,2,1,90.28,73.62,63.59,76.44
+30,Dar es Salaam,Rural,Primary,Student,2244797,2,2.97,1.47,0,1,Brick/Iron Sheet,9,3,0,100.0,47.99,100.0,81.8
+49,Dodoma,Urban,Primary,Government,339608,1,0.97,12.3,0,1,Mud/Thatch,7,1,1,84.14,15.06,51.33,50.12
+24,Morogoro,Rural,College,Private Sector,647571,8,1.06,0.6,0,1,Mud/Thatch,5,3,0,88.74,96.42,61.5,83.26
+68,Arusha,Rural,College,Self-employed,449115,1,2.22,7.08,1,1,Brick/Iron Sheet,13,3,1,86.2,74.75,100.0,86.33
+39,Mtwara,Rural,Secondary,Unemployed,202780,1,88.0,7.08,0,1,Brick/Iron Sheet,16,1,1,30.11,47.03,92.64,54.79
+45,Mbeya,Rural,Primary,Government,1571816,4,0.02,8.3,0,1,Mud/Thatch,15,2,0,100.0,52.11,76.92,76.31
+19,Mtwara,Urban,Primary,Unemployed,1591422,6,10.18,10.88,1,0,Brick/Iron Sheet,14,3,0,100.0,29.31,95.28,73.84
+59,Dar es Salaam,Rural,No Education,Government,917166,9,1.52,1.53,1,1,Brick/Iron Sheet,14,4,0,72.16,15.65,98.97,60.43
+62,Morogoro,Rural,Primary,Self-employed,953159,1,25.34,1.27,1,1,Concrete/Modern,0,3,0,94.97,24.53,100.0,71.82
+23,Morogoro,Rural,Secondary,Self-employed,995596,7,0.98,3.13,1,0,Brick/Iron Sheet,11,2,0,100.0,75.91,93.24,89.54
+45,Dodoma,Rural,Secondary,Government,2531129,5,31.02,1.54,1,1,Mud/Thatch,9,1,0,100.0,100.0,98.4,99.52
+45,Zanzibar,Urban,Secondary,Private Sector,683043,8,9.44,6.63,1,1,Brick/Iron Sheet,13,2,1,100.0,71.83,95.48,88.78
+61,Dodoma,Rural,College,Private Sector,1700720,7,0.01,5.05,0,1,Brick/Iron Sheet,9,5,0,80.87,100.0,100.0,93.3
+61,Zanzibar,Urban,Secondary,Private Sector,2705327,4,22.44,10.4,1,0,Mud/Thatch,9,3,1,100.0,68.19,91.6,86.35
+37,Zanzibar,Rural,Primary,Self-employed,2090242,4,7.38,0.43,0,1,Concrete/Modern,10,3,0,100.0,57.27,100.0,85.04
+47,Mbeya,Rural,Primary,Private Sector,1942995,6,3.05,12.33,1,1,Brick/Iron Sheet,15,1,0,100.0,39.84,100.0,78.94
+28,Dodoma,Urban,University,Self-employed,2293654,6,14.58,1.74,1,1,Concrete/Modern,8,3,1,100.0,100.0,100.0,100.0
+45,Arusha,Rural,No Education,Government,2069412,9,26.13,3.37,1,0,Brick/Iron Sheet,14,4,0,100.0,14.64,100.0,70.12
+42,Mwanza,Urban,University,Government,690611,5,6.61,2.89,1,1,Brick/Iron Sheet,13,4,0,100.0,94.57,100.0,98.1
+56,Mwanza,Urban,College,Self-employed,532206,8,3.79,7.14,1,1,Brick/Iron Sheet,8,2,1,100.0,76.44,82.18,86.41
+50,Dodoma,Rural,No Education,Private Sector,837902,5,15.56,2.73,1,0,Brick/Iron Sheet,3,1,1,87.52,11.02,89.62,61.37
+18,Dodoma,Rural,Secondary,Private Sector,1627553,2,11.45,14.37,1,0,Brick/Iron Sheet,6,5,0,100.0,40.59,100.0,79.21
+44,Mtwara,Rural,College,Self-employed,2888956,6,21.96,11.64,1,1,Concrete/Modern,7,2,0,100.0,100.0,100.0,100.0
+69,Mbeya,Rural,Secondary,Student,528556,9,11.79,10.28,1,1,Brick/Iron Sheet,7,1,0,80.07,42.24,75.72,65.52
+30,Dodoma,Urban,College,Unemployed,1778083,3,2.79,0.37,1,0,Concrete/Modern,14,1,0,100.0,97.65,100.0,99.18
+58,Mtwara,Rural,University,Self-employed,2532620,1,26.83,9.63,1,1,Concrete/Modern,15,2,0,100.0,100.0,100.0,100.0
+20,Zanzibar,Urban,Primary,Self-employed,1950697,1,1.11,7.61,1,1,Concrete/Modern,8,2,0,100.0,47.68,100.0,81.69
+56,Morogoro,Rural,Primary,Self-employed,1782620,3,3.12,0.55,0,0,Brick/Iron Sheet,11,3,0,95.04,45.56,100.0,79.21
+23,Morogoro,Rural,University,Private Sector,580350,5,7.34,0.57,1,1,Brick/Iron Sheet,15,5,1,100.0,96.59,85.33,94.41
+25,Zanzibar,Rural,Secondary,Private Sector,596232,3,8.34,0.53,1,0,Mud/Thatch,3,4,1,100.0,66.64,67.92,78.7
+44,Tanga,Urban,No Education,Private Sector,1787023,9,0.15,0.06,1,1,Brick/Iron Sheet,4,3,0,100.0,40.16,100.0,79.06
+26,Mtwara,Rural,No Education,Private Sector,1849182,8,15.17,3.98,1,1,Brick/Iron Sheet,7,1,0,100.0,17.41,100.0,71.09
+54,Mtwara,Rural,Secondary,Unemployed,2728973,3,4.49,18.13,1,1,Brick/Iron Sheet,0,5,0,100.0,58.04,100.0,85.31
+50,Zanzibar,Rural,University,Self-employed,2146719,9,5.22,2.89,0,0,Mud/Thatch,5,5,0,100.0,100.0,70.02,91.01
+68,Arusha,Urban,College,Self-employed,1526548,6,16.57,3.89,0,0,Concrete/Modern,14,2,0,78.94,90.63,100.0,89.35
+59,Kilimanjaro,Urban,Secondary,Self-employed,1946780,7,4.77,17.21,0,1,Concrete/Modern,3,5,0,97.27,56.51,100.0,83.82
+61,Dar es Salaam,Rural,No Education,Private Sector,975817,4,0.48,1.47,0,1,Brick/Iron Sheet,10,5,0,78.99,9.29,100.0,60.9
+41,Zanzibar,Rural,Primary,Unemployed,2124611,4,1.94,9.78,1,1,Brick/Iron Sheet,4,1,1,100.0,52.2,100.0,83.27
+32,Dodoma,Rural,College,Self-employed,350231,2,31.21,3.95,1,1,Brick/Iron Sheet,17,3,1,72.44,86.71,100.0,85.7
+49,Dodoma,Urban,Primary,Self-employed,1161516,5,0.73,4.21,1,1,Brick/Iron Sheet,14,5,1,100.0,39.35,100.0,78.77
+49,Mbeya,Rural,Primary,Government,480171,8,4.38,2.1,1,0,Brick/Iron Sheet,17,2,0,92.67,30.76,69.74,64.12
+41,Zanzibar,Urban,No Education,Government,641220,7,7.0,4.12,0,0,Brick/Iron Sheet,12,3,0,74.45,1.61,79.02,50.33
+58,Mbeya,Rural,Secondary,Private Sector,2647195,7,6.8,0.38,0,0,Brick/Iron Sheet,4,2,0,94.57,90.38,84.22,90.0
+69,Zanzibar,Rural,University,Government,1078935,6,0.04,7.23,1,1,Brick/Iron Sheet,0,5,1,100.0,100.0,94.56,98.37
+66,Mtwara,Urban,Primary,Private Sector,1173224,3,6.95,1.68,0,0,Brick/Iron Sheet,17,3,0,67.24,35.92,81.41,60.53
+66,Dar es Salaam,Rural,Primary,Private Sector,1130451,5,4.84,10.93,0,0,Brick/Iron Sheet,13,5,0,84.66,16.96,97.67,64.87
+69,Mtwara,Urban,Secondary,Unemployed,2230118,1,35.78,2.29,1,1,Concrete/Modern,4,1,0,100.0,79.41,100.0,92.79
+29,Kilimanjaro,Urban,University,Private Sector,520993,7,1.73,0.77,0,0,Mud/Thatch,5,3,0,83.03,92.05,48.0,75.68
+56,Morogoro,Rural,No Education,Private Sector,2360791,9,4.37,5.95,1,1,Brick/Iron Sheet,15,2,0,100.0,7.47,100.0,67.62
+19,Mwanza,Rural,Primary,Private Sector,346331,1,5.44,0.9,0,0,Brick/Iron Sheet,11,1,0,91.12,43.4,79.02,70.79
+20,Zanzibar,Rural,Primary,Private Sector,1191174,2,4.95,7.01,0,0,Mud/Thatch,17,4,0,97.05,38.24,77.37,70.56
+66,Kilimanjaro,Rural,College,Self-employed,290271,3,10.96,17.23,0,1,Brick/Iron Sheet,1,2,0,51.38,43.79,83.06,58.23
+54,Morogoro,Urban,Primary,Private Sector,507014,3,2.43,7.56,0,0,Brick/Iron Sheet,12,5,0,78.52,25.47,87.43,62.63
+66,Tanga,Urban,No Education,Government,947516,8,2.5,0.11,1,1,Brick/Iron Sheet,16,2,0,93.88,11.29,85.43,62.44
+34,Dar es Salaam,Urban,Secondary,Self-employed,2896749,7,13.06,4.58,1,1,Brick/Iron Sheet,16,4,1,100.0,83.13,100.0,94.1
+66,Mbeya,Urban,Secondary,Private Sector,2852690,6,6.94,5.94,1,0,Brick/Iron Sheet,15,2,0,100.0,59.72,100.0,85.9
+19,Mbeya,Urban,No Education,Self-employed,2445156,4,5.36,8.73,1,0,Brick/Iron Sheet,17,1,0,100.0,11.16,100.0,68.91
+19,Mtwara,Rural,College,Private Sector,1103510,9,1.85,0.29,1,1,Mud/Thatch,7,2,0,100.0,96.22,70.54,89.84
+45,Dodoma,Urban,Primary,Private Sector,117118,1,2.08,3.27,1,0,Concrete/Modern,2,3,1,100.0,16.85,100.0,70.9
+40,Morogoro,Urban,Secondary,Unemployed,1171192,2,0.11,3.83,0,0,Mud/Thatch,16,4,0,100.0,78.95,71.4,84.05
+54,Tanga,Rural,Primary,Private Sector,2329022,4,0.96,0.93,1,1,Concrete/Modern,17,2,0,100.0,63.23,100.0,87.13
+49,Kilimanjaro,Rural,Secondary,Self-employed,1960371,3,8.14,1.95,1,1,Concrete/Modern,5,4,0,99.92,73.15,100.0,90.57
+50,Dar es Salaam,Urban,Primary,Private Sector,102795,1,22.24,2.9,1,1,Brick/Iron Sheet,7,1,0,69.58,39.86,94.16,66.55
+18,Morogoro,Rural,College,Self-employed,1671480,5,3.39,8.96,1,1,Concrete/Modern,12,3,0,100.0,84.56,100.0,94.6
+36,Tanga,Rural,Secondary,Private Sector,2030873,7,3.97,13.25,0,1,Concrete/Modern,7,5,0,100.0,73.87,100.0,90.85
+19,Mwanza,Urban,Secondary,Unemployed,887163,2,1.23,4.95,0,0,Concrete/Modern,5,2,1,100.0,49.9,100.0,82.47
+61,Zanzibar,Rural,Secondary,Private Sector,2356246,5,4.92,2.51,1,1,Brick/Iron Sheet,14,1,1,100.0,86.15,100.0,95.15
+43,Mbeya,Rural,Secondary,Self-employed,2460901,6,0.38,1.47,0,1,Mud/Thatch,9,4,1,100.0,77.68,74.4,84.51
+49,Kilimanjaro,Rural,No Education,Government,2961753,7,24.96,20.12,0,0,Concrete/Modern,16,4,0,100.0,0.0,100.0,65.0
+23,Mbeya,Rural,Primary,Government,2360554,1,11.18,20.38,0,1,Mud/Thatch,0,1,1,100.0,12.58,86.85,65.46
+49,Kilimanjaro,Rural,University,Student,519007,7,46.83,12.95,0,0,Mud/Thatch,6,2,0,70.19,70.89,45.71,63.09
+21,Mtwara,Rural,No Education,Private Sector,1501156,4,21.44,7.7,0,0,Brick/Iron Sheet,12,5,0,77.61,0.0,83.3,52.15
+28,Dodoma,Rural,Secondary,Private Sector,323034,8,6.41,1.97,1,1,Brick/Iron Sheet,2,2,1,99.03,54.35,89.35,80.49
+34,Kilimanjaro,Rural,University,Self-employed,2706546,4,7.33,8.49,1,1,Brick/Iron Sheet,14,3,0,100.0,100.0,100.0,100.0
+55,Mbeya,Rural,No Education,Self-employed,1772558,6,2.11,2.63,1,0,Brick/Iron Sheet,4,2,0,100.0,0.0,100.0,65.0
+41,Mtwara,Rural,Secondary,Self-employed,2741213,9,6.2,1.98,0,0,Concrete/Modern,10,3,0,100.0,86.84,100.0,95.39
+22,Kilimanjaro,Rural,Primary,Private Sector,890671,5,23.33,6.83,0,1,Mud/Thatch,17,4,0,95.69,41.71,69.53,68.95
+69,Mwanza,Urban,Secondary,Government,2480159,4,0.52,0.42,1,1,Concrete/Modern,2,3,1,100.0,82.07,100.0,93.72
+51,Dodoma,Urban,No Education,Unemployed,413559,8,19.92,0.25,1,1,Concrete/Modern,5,5,0,82.38,8.08,100.0,61.66
+23,Kilimanjaro,Rural,No Education,Government,168968,9,4.17,2.97,1,1,Mud/Thatch,2,1,0,94.2,0.0,55.66,49.67
+39,Mtwara,Urban,Secondary,Private Sector,593891,4,22.98,2.95,1,0,Brick/Iron Sheet,4,3,0,86.56,58.22,78.99,74.37
+28,Morogoro,Urban,College,Private Sector,684718,3,28.28,11.3,0,0,Concrete/Modern,8,2,1,72.84,49.45,100.0,72.8
+65,Arusha,Urban,Secondary,Unemployed,1398648,8,11.11,0.67,1,1,Brick/Iron Sheet,12,3,0,100.0,68.96,100.0,89.14
+33,Tanga,Urban,Secondary,Unemployed,2198667,5,10.92,0.66,1,1,Concrete/Modern,5,4,0,100.0,97.69,100.0,99.19
+50,Arusha,Rural,No Education,Private Sector,2294358,2,6.03,0.8,0,0,Brick/Iron Sheet,10,3,1,100.0,24.34,100.0,73.52
+26,Arusha,Rural,Secondary,Private Sector,2442434,9,18.05,0.15,1,0,Brick/Iron Sheet,13,5,0,100.0,82.27,100.0,93.79
+23,Dar es Salaam,Rural,Primary,Self-employed,1908566,3,32.6,0.37,1,1,Mud/Thatch,5,3,0,96.06,37.36,89.83,73.65
+33,Mwanza,Rural,College,Private Sector,2604973,2,14.92,5.39,0,1,Brick/Iron Sheet,5,5,1,100.0,100.0,100.0,100.0
+46,Morogoro,Rural,College,Government,942672,1,9.73,2.82,0,1,Mud/Thatch,16,2,0,80.66,82.9,77.98,80.64
+20,Zanzibar,Urban,Secondary,Government,2202738,8,9.33,7.21,0,0,Brick/Iron Sheet,10,4,1,100.0,61.31,100.0,86.46
+37,Kilimanjaro,Rural,University,Government,1118725,3,18.94,24.53,1,1,Concrete/Modern,14,1,0,100.0,65.29,100.0,87.85
+53,Tanga,Urban,No Education,Self-employed,869565,7,7.79,5.38,0,1,Brick/Iron Sheet,8,2,1,82.98,9.71,88.79,59.08
+36,Dodoma,Rural,Secondary,Self-employed,1704050,1,16.29,0.26,0,1,Concrete/Modern,16,2,1,100.0,81.08,100.0,93.38
+43,Morogoro,Rural,Primary,Private Sector,2742151,1,7.11,0.55,0,1,Brick/Iron Sheet,6,1,0,100.0,68.51,100.0,88.98
+20,Mbeya,Urban,College,Self-employed,2217191,9,0.64,10.64,1,1,Brick/Iron Sheet,6,3,0,100.0,100.0,100.0,100.0
+36,Zanzibar,Rural,Primary,Unemployed,1709425,8,4.84,3.75,1,1,Brick/Iron Sheet,0,3,1,100.0,40.56,100.0,79.19
+37,Dar es Salaam,Rural,Secondary,Self-employed,2403707,3,5.88,8.71,1,1,Concrete/Modern,7,3,0,100.0,75.63,100.0,91.47
+49,Dar es Salaam,Rural,College,Self-employed,1639663,6,1.53,9.71,0,1,Brick/Iron Sheet,4,4,0,100.0,84.41,100.0,94.54
+24,Morogoro,Urban,No Education,Self-employed,1098899,3,1.08,13.13,1,1,Mud/Thatch,7,2,0,100.0,0.0,88.27,61.48
+69,Mtwara,Rural,Primary,Self-employed,1368306,4,7.67,14.96,1,1,Concrete/Modern,16,5,1,94.79,16.5,100.0,68.95
+58,Arusha,Rural,Secondary,Self-employed,2198729,1,0.89,4.05,1,1,Brick/Iron Sheet,11,1,1,100.0,79.6,100.0,92.86
+50,Mbeya,Urban,Primary,Unemployed,207792,5,3.61,2.09,1,1,Mud/Thatch,14,2,0,66.14,33.49,76.26,57.75
+57,Dar es Salaam,Urban,Primary,Private Sector,1920844,1,13.65,16.33,1,1,Brick/Iron Sheet,3,3,0,100.0,29.27,100.0,75.24
+56,Tanga,Rural,Primary,Private Sector,1387116,1,33.36,3.96,1,1,Concrete/Modern,11,1,1,95.13,42.5,100.0,78.17
+35,Dar es Salaam,Urban,No Education,Private Sector,1051302,7,12.65,0.33,0,1,Brick/Iron Sheet,12,5,1,88.38,8.49,94.34,62.21
+57,Dodoma,Rural,College,Unemployed,110785,6,49.1,5.15,1,1,Brick/Iron Sheet,13,2,0,66.03,95.36,85.65,82.18
+18,Kilimanjaro,Rural,Secondary,Self-employed,1220803,2,11.98,4.43,1,1,Concrete/Modern,4,2,1,100.0,72.42,100.0,90.35
+28,Dar es Salaam,Rural,No Education,Private Sector,1005112,2,3.48,11.31,1,1,Concrete/Modern,15,4,1,99.54,0.0,100.0,64.84
+45,Dodoma,Urban,Primary,Private Sector,250653,7,11.15,5.29,1,0,Brick/Iron Sheet,6,2,0,71.83,27.78,82.6,59.65
+42,Morogoro,Rural,Primary,Self-employed,2514488,1,12.11,2.15,1,1,Mud/Thatch,14,2,1,100.0,50.12,100.0,82.54
+67,Morogoro,Urban,Primary,Self-employed,363606,2,4.65,16.94,0,0,Brick/Iron Sheet,12,5,0,54.81,8.44,98.23,51.61
+40,Zanzibar,Urban,Primary,Government,2588144,8,0.18,8.09,0,0,Brick/Iron Sheet,15,5,0,100.0,46.96,100.0,81.43
+48,Dar es Salaam,Rural,Primary,Self-employed,1868109,6,12.15,4.98,1,1,Concrete/Modern,11,1,0,100.0,50.62,100.0,82.72
+47,Tanga,Rural,Primary,Self-employed,1033015,2,0.22,1.73,1,0,Brick/Iron Sheet,6,3,1,100.0,27.67,100.0,74.69
+59,Dar es Salaam,Rural,Secondary,Private Sector,1848350,7,9.97,2.34,0,0,Brick/Iron Sheet,15,5,1,94.9,99.21,78.89,91.6
+52,Tanga,Rural,Primary,Self-employed,1745437,4,1.79,5.54,0,0,Mud/Thatch,12,1,0,100.0,48.59,52.74,67.83
+24,Mwanza,Urban,Secondary,Self-employed,2421889,2,8.34,0.37,1,0,Brick/Iron Sheet,2,2,0,100.0,99.92,100.0,99.97
+33,Zanzibar,Urban,Secondary,Self-employed,994235,6,7.01,1.48,1,1,Mud/Thatch,14,1,0,100.0,70.67,71.43,81.16
+43,Mwanza,Rural,Secondary,Private Sector,2841122,9,0.14,6.26,1,1,Mud/Thatch,2,1,1,100.0,86.0,84.82,90.55
+65,Dar es Salaam,Rural,Secondary,Self-employed,1686250,9,4.51,3.27,1,1,Mud/Thatch,6,1,1,100.0,77.25,72.11,83.67
+69,Zanzibar,Rural,Secondary,Unemployed,486213,8,9.19,2.57,1,0,Brick/Iron Sheet,17,1,0,100.0,56.62,93.17,82.77
+66,Mwanza,Urban,College,Self-employed,1203036,3,18.88,0.82,1,0,Brick/Iron Sheet,13,5,0,71.9,96.86,100.0,89.06
+19,Arusha,Rural,Secondary,Government,2596589,3,21.95,2.92,1,0,Brick/Iron Sheet,17,3,0,100.0,74.52,100.0,91.08
+18,Dar es Salaam,Urban,Secondary,Unemployed,516690,2,6.61,7.36,1,1,Concrete/Modern,13,1,0,82.8,64.71,100.0,81.63
+65,Mwanza,Urban,College,Student,1123577,5,13.04,1.53,1,1,Mud/Thatch,5,4,0,100.0,89.95,73.11,88.42
+29,Arusha,Rural,Secondary,Self-employed,1263951,4,3.8,0.03,1,1,Brick/Iron Sheet,7,2,1,100.0,80.79,100.0,93.28
+22,Arusha,Urban,Primary,Student,252117,7,4.19,5.52,1,1,Concrete/Modern,6,2,0,86.96,40.93,100.0,74.76
+54,Morogoro,Urban,Primary,Government,977751,4,2.16,17.99,1,1,Brick/Iron Sheet,17,2,0,87.62,16.73,94.49,64.87
+49,Dar es Salaam,Rural,Primary,Self-employed,1265158,9,8.25,4.67,0,1,Brick/Iron Sheet,17,2,0,95.66,46.89,83.88,75.06
+26,Arusha,Rural,College,Unemployed,1022426,2,3.78,0.64,0,1,Mud/Thatch,14,2,0,77.08,90.19,72.64,80.34
+58,Morogoro,Rural,Secondary,Unemployed,1915879,6,0.88,1.93,0,0,Concrete/Modern,1,1,0,94.66,66.81,100.0,86.51
+52,Mwanza,Urban,University,Self-employed,778066,7,11.55,10.11,0,0,Brick/Iron Sheet,7,3,0,64.93,100.0,81.08,82.05
+36,Dodoma,Urban,Secondary,Private Sector,1977779,4,12.3,1.32,0,1,Concrete/Modern,10,4,0,75.88,88.77,100.0,87.63
+65,Dar es Salaam,Urban,Primary,Self-employed,1725199,6,4.46,4.68,0,1,Brick/Iron Sheet,17,5,1,97.99,44.16,94.0,77.95
+33,Zanzibar,Urban,No Education,Self-employed,1901951,7,0.8,2.58,1,1,Brick/Iron Sheet,12,4,0,100.0,25.73,100.0,74.0
+20,Tanga,Rural,Secondary,Self-employed,152949,4,5.56,1.16,1,1,Concrete/Modern,8,5,1,91.53,56.65,100.0,81.86
+37,Tanga,Rural,Secondary,Government,563930,8,5.84,8.39,0,0,Concrete/Modern,8,5,0,74.58,56.59,100.0,75.91
+41,Mwanza,Rural,University,Unemployed,2292710,9,11.05,6.79,1,1,Mud/Thatch,16,4,0,100.0,100.0,87.87,96.36
+50,Mtwara,Rural,Primary,Unemployed,1109260,1,3.79,5.42,1,1,Concrete/Modern,6,1,0,98.96,43.17,100.0,79.75
+41,Mtwara,Rural,Secondary,Unemployed,889148,7,11.48,1.35,1,0,Brick/Iron Sheet,8,2,1,94.2,80.0,84.87,86.43
+69,Mwanza,Rural,Secondary,Government,1615509,9,20.52,0.51,1,1,Brick/Iron Sheet,0,1,0,85.24,91.97,100.0,92.02
+28,Arusha,Rural,Secondary,Private Sector,1653091,5,2.71,4.29,0,0,Brick/Iron Sheet,1,2,0,100.0,58.98,96.54,84.61
+66,Dar es Salaam,Rural,Secondary,Self-employed,2914338,2,38.59,4.03,0,0,Brick/Iron Sheet,3,3,1,94.43,67.13,100.0,86.55
+25,Tanga,Rural,Secondary,Unemployed,2269068,6,4.88,1.04,1,1,Brick/Iron Sheet,13,5,0,100.0,88.09,100.0,95.83
+53,Tanga,Urban,Primary,Self-employed,1408166,7,3.11,0.29,0,1,Brick/Iron Sheet,3,4,1,100.0,50.0,100.0,82.5
+55,Arusha,Rural,Secondary,Unemployed,2969530,2,5.47,0.42,1,0,Mud/Thatch,1,3,0,100.0,79.97,100.0,92.99
+57,Tanga,Rural,Secondary,Government,2195104,2,0.99,24.65,1,0,Mud/Thatch,7,2,0,100.0,37.29,83.3,73.04
+37,Zanzibar,Urban,College,Private Sector,2098053,1,1.34,7.65,0,1,Concrete/Modern,17,1,0,100.0,88.34,100.0,95.92
+52,Dar es Salaam,Urban,College,Self-employed,1223270,4,5.35,12.75,0,0,Concrete/Modern,13,4,1,100.0,83.78,100.0,94.32
+65,Kilimanjaro,Rural,Primary,Government,2611019,7,14.37,1.08,0,1,Concrete/Modern,9,5,0,97.58,55.7,100.0,83.65
+42,Tanga,Rural,Primary,Self-employed,955126,9,23.06,16.17,1,1,Brick/Iron Sheet,16,3,0,86.98,8.27,100.0,63.34
+52,Mwanza,Rural,University,Private Sector,1430728,3,10.93,0.77,1,0,Brick/Iron Sheet,7,5,0,93.77,100.0,100.0,97.82
+42,Zanzibar,Rural,Secondary,Government,1129242,7,1.11,3.56,0,1,Brick/Iron Sheet,13,2,0,84.81,70.93,100.0,84.51
+46,Tanga,Urban,College,Self-employed,2267626,7,11.15,8.85,0,1,Concrete/Modern,7,5,1,100.0,86.14,100.0,95.15
+35,Zanzibar,Rural,Primary,Private Sector,450068,7,10.09,2.15,0,1,Brick/Iron Sheet,4,1,0,77.81,41.0,69.87,62.54
+63,Morogoro,Urban,Secondary,Self-employed,1410624,2,16.39,2.77,0,0,Concrete/Modern,15,3,0,97.7,79.06,100.0,91.87
+35,Kilimanjaro,Rural,College,Self-employed,1929438,6,17.44,0.69,1,0,Concrete/Modern,7,3,0,100.0,95.42,100.0,98.4
+19,Mbeya,Rural,University,Unemployed,2923651,2,20.26,0.66,0,1,Concrete/Modern,9,1,0,100.0,100.0,100.0,100.0
+52,Mwanza,Urban,Primary,Self-employed,1695368,6,5.35,4.83,1,1,Mud/Thatch,7,5,0,100.0,42.52,83.95,75.07
+33,Mwanza,Urban,Secondary,Private Sector,1203546,3,11.97,5.63,1,0,Mud/Thatch,8,1,0,100.0,66.01,63.2,77.06
+58,Dar es Salaam,Urban,Secondary,Government,2838384,2,3.12,7.51,0,0,Brick/Iron Sheet,17,4,1,100.0,59.85,100.0,85.95
+53,Zanzibar,Rural,No Education,Private Sector,504911,6,73.18,4.07,1,1,Brick/Iron Sheet,2,1,1,61.97,7.8,94.0,52.62
+50,Arusha,Urban,Secondary,Government,2608164,2,1.93,5.19,1,1,Mud/Thatch,16,5,0,100.0,80.3,100.0,93.1
+21,Mwanza,Rural,Secondary,Government,2080639,5,0.1,0.07,1,0,Brick/Iron Sheet,14,1,1,100.0,81.05,100.0,93.37
+50,Zanzibar,Rural,University,Unemployed,1837075,2,1.61,0.88,1,1,Concrete/Modern,16,2,0,100.0,100.0,100.0,100.0
+31,Zanzibar,Urban,Primary,Self-employed,1269070,3,14.96,20.97,1,0,Brick/Iron Sheet,7,1,0,98.83,5.21,97.63,65.7
+38,Dodoma,Urban,Primary,Unemployed,271277,3,5.92,0.4,1,1,Brick/Iron Sheet,1,1,0,90.96,36.23,99.46,74.36
+65,Dodoma,Urban,No Education,Private Sector,591966,6,5.93,5.68,0,1,Brick/Iron Sheet,16,5,0,79.07,0.0,87.63,53.96
+37,Mbeya,Rural,Primary,Government,2493455,6,31.02,0.97,1,1,Brick/Iron Sheet,17,4,0,100.0,55.62,100.0,84.47
+25,Morogoro,Urban,Primary,Unemployed,1461212,3,25.21,6.31,1,0,Concrete/Modern,4,4,1,100.0,28.11,100.0,74.84
+24,Mbeya,Rural,Secondary,Private Sector,1786622,3,3.73,6.12,1,1,Mud/Thatch,8,5,1,100.0,77.98,100.0,92.29
+20,Tanga,Rural,Primary,Private Sector,1703344,1,2.35,1.33,1,0,Brick/Iron Sheet,8,5,0,100.0,54.93,100.0,84.22
+34,Arusha,Rural,University,Private Sector,2380315,7,18.87,1.57,1,0,Brick/Iron Sheet,1,5,0,100.0,100.0,100.0,100.0
+50,Tanga,Rural,University,Self-employed,2569491,8,23.65,5.32,1,1,Mud/Thatch,1,2,1,100.0,100.0,100.0,100.0
+65,Mtwara,Rural,Secondary,Self-employed,1327414,2,7.8,2.47,0,1,Concrete/Modern,2,3,0,87.36,65.8,100.0,83.61
+29,Tanga,Rural,University,Unemployed,2468561,4,9.93,1.08,1,0,Brick/Iron Sheet,16,1,0,100.0,100.0,100.0,100.0
+68,Dar es Salaam,Urban,Secondary,Self-employed,2835605,7,2.97,6.58,1,0,Brick/Iron Sheet,13,5,0,100.0,80.28,100.0,93.1
+39,Tanga,Urban,Secondary,Unemployed,2840941,8,16.13,0.84,1,1,Brick/Iron Sheet,13,5,0,100.0,87.52,100.0,95.63
+39,Mbeya,Rural,Primary,Private Sector,1481710,1,10.0,9.68,1,1,Brick/Iron Sheet,13,5,0,100.0,34.64,100.0,77.12
+63,Mwanza,Rural,Primary,Unemployed,2691822,4,7.0,3.61,1,0,Brick/Iron Sheet,5,4,1,100.0,58.42,100.0,85.45
+47,Mwanza,Rural,Secondary,Government,2157797,6,0.62,0.56,1,1,Concrete/Modern,2,5,1,100.0,72.88,100.0,90.51
+55,Dodoma,Urban,College,Self-employed,901818,3,24.76,5.92,0,1,Mud/Thatch,0,1,0,69.76,74.8,60.39,68.71
+55,Arusha,Urban,Primary,Private Sector,2039726,5,9.56,3.66,1,1,Concrete/Modern,15,5,1,100.0,54.56,100.0,84.1
+62,Arusha,Rural,College,Self-employed,923857,9,2.14,1.77,1,1,Brick/Iron Sheet,3,1,0,72.34,92.02,75.89,80.29
+68,Dar es Salaam,Urban,Secondary,Private Sector,2318787,3,9.32,2.75,1,0,Mud/Thatch,0,2,0,100.0,78.51,88.79,89.12
+25,Mbeya,Rural,No Education,Government,2895766,5,11.32,1.77,1,1,Mud/Thatch,16,3,1,100.0,38.84,100.0,78.6
+44,Dodoma,Rural,University,Unemployed,320935,8,7.46,1.53,1,1,Brick/Iron Sheet,17,4,0,84.37,100.0,100.0,94.53
+44,Mtwara,Rural,Secondary,Self-employed,2900174,6,12.66,0.89,0,1,Brick/Iron Sheet,7,1,0,100.0,100.0,100.0,100.0
+51,Arusha,Rural,Primary,Private Sector,973420,4,8.71,2.25,0,1,Mud/Thatch,1,2,0,98.02,48.51,53.96,67.48
+38,Mwanza,Rural,Secondary,Unemployed,1907720,8,29.52,1.44,1,1,Mud/Thatch,17,3,1,100.0,86.12,85.91,90.91
+47,Tanga,Urban,No Education,Unemployed,2041345,3,0.55,5.75,0,0,Concrete/Modern,15,3,1,100.0,11.36,100.0,68.97
+50,Tanga,Rural,Secondary,Self-employed,592503,3,1.12,5.76,0,0,Mud/Thatch,9,3,1,79.26,56.13,44.37,60.7
+45,Dodoma,Rural,Primary,Unemployed,318599,4,1.91,3.48,0,0,Concrete/Modern,7,1,0,58.42,27.93,95.22,58.79
+64,Mbeya,Rural,Primary,Private Sector,2435071,9,11.72,7.52,1,1,Brick/Iron Sheet,11,2,1,100.0,49.85,100.0,82.45
+50,Mbeya,Urban,University,Self-employed,2665820,5,10.37,9.2,0,1,Brick/Iron Sheet,15,5,0,98.12,100.0,100.0,99.34
+22,Morogoro,Rural,Secondary,Government,2600511,8,22.26,4.33,1,1,Brick/Iron Sheet,11,2,1,100.0,86.61,100.0,95.31
+65,Kilimanjaro,Rural,Primary,Private Sector,1633183,6,13.2,4.82,1,0,Mud/Thatch,10,2,0,100.0,37.15,68.53,68.56
+36,Arusha,Urban,Primary,Private Sector,1740307,3,7.1,1.66,1,1,Concrete/Modern,0,2,0,100.0,52.77,100.0,83.47
+21,Mbeya,Urban,College,Private Sector,1440144,8,48.08,11.26,1,1,Mud/Thatch,2,1,0,80.5,77.89,61.76,73.96
+52,Mwanza,Rural,Primary,Government,928416,9,3.09,0.12,0,1,Brick/Iron Sheet,11,1,1,83.72,38.82,86.16,68.74
+66,Dodoma,Rural,Primary,Self-employed,2238657,8,17.91,2.14,1,0,Brick/Iron Sheet,8,1,1,100.0,51.02,100.0,82.86
+34,Mtwara,Rural,No Education,Government,1044461,4,5.57,6.4,1,0,Mud/Thatch,4,2,0,87.61,4.67,69.03,53.01
+61,Morogoro,Urban,No Education,Private Sector,1567256,6,10.46,0.42,1,1,Brick/Iron Sheet,0,1,0,91.56,15.21,100.0,67.37
+45,Zanzibar,Urban,College,Private Sector,254721,1,12.99,1.01,1,1,Concrete/Modern,9,3,1,90.86,96.58,100.0,95.6
+47,Dar es Salaam,Rural,Secondary,Private Sector,2108145,4,10.04,4.45,1,0,Brick/Iron Sheet,16,1,0,100.0,84.91,94.1,92.95
+46,Mtwara,Rural,Primary,Self-employed,1110165,8,1.51,4.1,0,1,Concrete/Modern,3,4,1,100.0,27.29,100.0,74.55
+63,Zanzibar,Rural,Secondary,Self-employed,236668,1,5.85,6.71,0,0,Concrete/Modern,14,1,1,74.51,46.08,100.0,72.21
+23,Tanga,Rural,Primary,Private Sector,378518,3,8.24,8.37,1,1,Brick/Iron Sheet,7,1,0,100.0,27.16,95.78,73.24
+52,Dar es Salaam,Rural,University,Unemployed,2840126,1,18.91,0.69,1,1,Brick/Iron Sheet,14,1,0,100.0,100.0,100.0,100.0
+58,Arusha,Rural,University,Private Sector,2805421,9,5.86,0.09,0,0,Brick/Iron Sheet,6,1,0,100.0,100.0,100.0,100.0
+54,Mwanza,Rural,Primary,Self-employed,1464359,2,25.1,5.85,1,1,Brick/Iron Sheet,14,4,0,98.12,42.0,100.0,79.04
+41,Dar es Salaam,Rural,College,Unemployed,1262586,9,5.8,1.79,1,0,Brick/Iron Sheet,7,5,0,100.0,89.0,100.0,96.15
+46,Kilimanjaro,Rural,Secondary,Unemployed,1703969,4,7.96,4.92,0,0,Concrete/Modern,9,1,1,100.0,60.56,100.0,86.2
+66,Zanzibar,Rural,Primary,Unemployed,623472,2,15.91,0.82,1,1,Brick/Iron Sheet,17,3,0,90.95,27.33,99.5,71.25
+63,Arusha,Rural,Primary,Self-employed,506884,4,8.75,3.17,1,0,Brick/Iron Sheet,3,4,0,71.59,29.25,99.37,65.11
+48,Kilimanjaro,Urban,Primary,Self-employed,359021,6,32.24,3.51,1,0,Brick/Iron Sheet,14,5,0,83.41,44.78,91.64,72.36
+52,Tanga,Rural,Secondary,Student,247032,7,10.8,4.4,1,0,Brick/Iron Sheet,10,1,0,97.52,54.18,65.88,72.86
+50,Kilimanjaro,Urban,University,Private Sector,2847959,3,7.4,3.6,1,0,Concrete/Modern,2,5,1,100.0,100.0,100.0,100.0
+69,Morogoro,Rural,Secondary,Unemployed,557820,3,0.24,3.42,1,0,Brick/Iron Sheet,14,3,0,74.48,64.06,98.86,78.15
+38,Morogoro,Rural,College,Private Sector,989171,8,5.34,2.02,0,0,Mud/Thatch,2,4,0,72.34,70.81,53.99,66.3
+49,Dodoma,Rural,Secondary,Government,1462516,5,3.56,0.37,0,1,Mud/Thatch,14,4,1,100.0,79.71,77.95,86.28
+40,Mtwara,Urban,College,Private Sector,2475100,4,13.79,0.47,1,0,Concrete/Modern,5,5,0,100.0,100.0,100.0,100.0
+50,Mtwara,Rural,Secondary,Unemployed,1133237,7,2.34,2.84,0,1,Brick/Iron Sheet,0,1,0,88.76,64.49,100.0,83.64
+20,Arusha,Rural,Primary,Government,1818562,7,2.3,2.2,1,0,Concrete/Modern,13,2,0,100.0,55.84,100.0,84.54
+35,Tanga,Urban,Secondary,Private Sector,2356356,9,2.1,3.63,1,0,Mud/Thatch,15,4,1,100.0,83.4,63.07,83.11
+42,Mbeya,Urban,College,Unemployed,1429785,9,1.34,1.82,1,0,Brick/Iron Sheet,0,2,0,100.0,100.0,95.64,98.69
+59,Morogoro,Urban,No Education,Unemployed,205072,5,3.73,5.82,1,1,Mud/Thatch,16,4,1,86.32,0.0,69.92,51.19
+48,Arusha,Urban,College,Private Sector,2861642,8,21.71,9.97,1,1,Brick/Iron Sheet,7,1,1,100.0,97.21,100.0,99.02
+20,Mbeya,Rural,Primary,Unemployed,189360,1,14.91,1.78,0,1,Brick/Iron Sheet,17,1,0,69.03,41.61,84.43,64.05
+57,Mtwara,Rural,Secondary,Government,2259439,9,13.29,1.07,0,0,Mud/Thatch,15,4,0,92.56,69.0,54.93,73.03
+63,Dodoma,Rural,College,Self-employed,807062,8,15.96,0.62,1,1,Brick/Iron Sheet,5,5,0,74.59,99.72,96.28,89.89
+41,Kilimanjaro,Urban,Primary,Government,792353,6,3.14,4.79,1,0,Brick/Iron Sheet,9,1,0,100.0,29.3,79.94,69.24
+67,Morogoro,Urban,Primary,Private Sector,787235,3,21.84,2.93,1,0,Brick/Iron Sheet,9,1,1,62.67,40.99,81.53,60.74
+49,Arusha,Rural,Primary,Unemployed,870644,3,1.48,1.04,1,1,Brick/Iron Sheet,4,3,0,100.0,43.88,100.0,80.36
+64,Dar es Salaam,Urban,College,Unemployed,2858566,8,4.1,5.29,1,0,Brick/Iron Sheet,11,1,0,100.0,100.0,100.0,100.0
+39,Mbeya,Rural,No Education,Private Sector,2428033,5,8.84,0.8,1,1,Mud/Thatch,16,3,1,100.0,17.74,100.0,71.21
+40,Kilimanjaro,Rural,College,Private Sector,1255933,7,1.09,4.04,1,0,Brick/Iron Sheet,13,1,0,100.0,89.13,89.18,92.95
+19,Morogoro,Rural,Primary,Private Sector,1590309,5,13.1,3.74,0,1,Brick/Iron Sheet,13,1,0,100.0,33.19,100.0,76.62
+44,Mtwara,Rural,University,Self-employed,307440,8,4.9,6.63,1,1,Brick/Iron Sheet,2,5,0,74.83,96.49,95.7,88.67
+59,Tanga,Urban,University,Self-employed,2751110,4,15.34,0.28,0,1,Concrete/Modern,11,5,0,99.52,100.0,100.0,99.83
+19,Mbeya,Urban,Primary,Unemployed,2965599,2,6.79,10.94,1,0,Brick/Iron Sheet,17,1,1,100.0,40.96,100.0,79.34
+43,Mtwara,Urban,Secondary,Private Sector,1346735,3,2.0,6.07,0,0,Brick/Iron Sheet,11,4,0,100.0,58.09,89.4,82.15
+34,Morogoro,Rural,Primary,Unemployed,1982930,8,13.27,1.22,1,1,Concrete/Modern,1,4,0,100.0,50.4,100.0,82.64
+57,Mbeya,Urban,Secondary,Self-employed,294152,7,2.91,1.01,0,0,Concrete/Modern,1,1,0,70.63,62.2,100.0,76.49
+50,Kilimanjaro,Rural,No Education,Private Sector,2028356,2,6.75,2.83,0,1,Brick/Iron Sheet,16,4,0,96.3,23.32,100.0,71.87
+26,Morogoro,Rural,No Education,Government,703623,6,0.79,8.51,1,1,Concrete/Modern,9,1,0,96.03,14.73,100.0,68.77
+60,Zanzibar,Rural,No Education,Self-employed,912744,9,9.62,9.26,1,0,Brick/Iron Sheet,17,5,0,86.05,2.23,90.65,58.09
+65,Arusha,Urban,Primary,Self-employed,1075112,4,10.96,3.67,0,1,Brick/Iron Sheet,0,2,1,96.92,35.54,100.0,76.36
+56,Kilimanjaro,Urban,Primary,Private Sector,583178,9,4.76,9.86,0,1,Brick/Iron Sheet,3,3,1,77.9,30.68,90.04,65.01
+46,Mbeya,Rural,Secondary,Private Sector,1319925,2,30.88,0.03,1,0,Brick/Iron Sheet,3,4,0,91.72,80.21,100.0,90.18
+59,Tanga,Rural,University,Self-employed,655839,2,20.73,0.18,1,0,Mud/Thatch,1,4,0,93.5,96.04,63.99,85.54
+43,Mtwara,Rural,Primary,Government,714101,9,12.31,12.14,0,1,Concrete/Modern,11,5,0,69.55,29.55,100.0,64.68
+52,Dar es Salaam,Urban,Secondary,Government,549813,7,12.51,7.47,1,0,Concrete/Modern,9,4,0,89.71,42.41,100.0,76.24
+67,Mtwara,Rural,Primary,Self-employed,1158213,7,2.91,3.0,0,1,Brick/Iron Sheet,12,1,0,90.61,36.55,98.6,74.09
+42,Mbeya,Rural,College,Self-employed,1978266,1,10.69,7.0,1,0,Brick/Iron Sheet,14,1,0,100.0,77.88,100.0,92.26
+41,Mtwara,Urban,College,Self-employed,1053197,6,2.21,15.58,0,1,Mud/Thatch,2,2,0,100.0,70.48,69.25,80.44
+30,Arusha,Rural,College,Private Sector,1027328,7,1.55,7.39,1,0,Brick/Iron Sheet,12,2,0,100.0,75.39,74.69,83.79
+24,Morogoro,Urban,University,Unemployed,1802417,6,75.39,9.24,0,1,Brick/Iron Sheet,7,2,1,83.79,100.0,100.0,94.33
+53,Dar es Salaam,Rural,No Education,Private Sector,651238,6,9.74,7.15,1,1,Brick/Iron Sheet,6,1,0,79.22,7.31,97.54,59.55
+62,Mwanza,Rural,College,Private Sector,516704,2,5.64,0.92,0,0,Concrete/Modern,7,2,1,71.35,84.51,100.0,84.55
+37,Mbeya,Urban,Secondary,Self-employed,1800734,6,3.4,8.97,0,0,Mud/Thatch,17,2,0,100.0,70.96,60.44,77.97
+18,Dodoma,Rural,Primary,Private Sector,2181280,4,9.26,1.09,0,1,Mud/Thatch,8,1,0,100.0,68.2,69.32,79.66
+25,Mwanza,Rural,University,Government,100215,9,0.51,11.16,1,1,Brick/Iron Sheet,5,5,1,100.0,100.0,89.06,96.72
+63,Mtwara,Rural,No Education,Unemployed,467747,1,0.99,3.07,1,0,Brick/Iron Sheet,3,4,0,100.0,0.0,100.0,65.0
+33,Mbeya,Urban,Secondary,Self-employed,2995107,8,0.33,5.65,1,1,Concrete/Modern,14,3,1,100.0,90.75,100.0,96.76
+31,Zanzibar,Urban,Primary,Self-employed,955121,5,6.91,3.44,1,0,Brick/Iron Sheet,4,1,0,100.0,33.16,79.81,70.55
+29,Dodoma,Urban,Primary,Government,1117375,1,9.18,0.49,1,0,Brick/Iron Sheet,4,1,0,100.0,48.55,98.01,81.39
+68,Dar es Salaam,Rural,Secondary,Student,372544,4,0.65,1.72,1,1,Brick/Iron Sheet,6,3,0,86.98,72.71,88.01,82.29
+40,Tanga,Urban,Secondary,Self-employed,634633,1,12.77,20.59,0,1,Mud/Thatch,8,3,0,62.82,35.17,100.0,64.3
+32,Zanzibar,Rural,Primary,Private Sector,1182472,6,2.62,16.18,1,0,Brick/Iron Sheet,6,2,1,100.0,13.44,80.13,63.74
+45,Mwanza,Rural,Primary,Self-employed,1627222,2,11.56,1.93,0,1,Mud/Thatch,8,3,1,100.0,59.46,88.32,82.31
+51,Morogoro,Urban,College,Self-employed,1963907,5,40.12,27.99,1,0,Brick/Iron Sheet,9,4,1,100.0,53.26,100.0,83.64
+19,Arusha,Rural,No Education,Self-employed,914661,7,11.75,9.34,1,1,Brick/Iron Sheet,3,4,0,91.66,0.0,100.0,62.08
+49,Tanga,Urban,Primary,Self-employed,2707421,2,21.47,4.72,1,1,Mud/Thatch,5,4,0,100.0,60.39,100.0,86.14
+40,Zanzibar,Rural,College,Self-employed,1416303,6,29.6,0.2,1,1,Mud/Thatch,13,4,0,78.7,97.53,77.15,84.83
+39,Morogoro,Rural,College,Private Sector,1022401,6,6.67,11.59,1,1,Brick/Iron Sheet,8,4,0,81.84,90.12,100.0,90.18
+68,Morogoro,Urban,Primary,Unemployed,613622,5,12.12,4.08,1,0,Brick/Iron Sheet,0,2,1,100.0,38.29,78.06,71.82
+42,Mbeya,Urban,Secondary,Government,1220113,5,19.1,10.14,0,1,Concrete/Modern,16,1,0,82.21,54.91,100.0,77.99
+39,Zanzibar,Rural,College,Unemployed,1913353,3,4.41,8.99,0,1,Mud/Thatch,12,3,0,100.0,85.96,71.24,86.46
+39,Dar es Salaam,Rural,College,Self-employed,497783,2,3.03,8.95,1,0,Mud/Thatch,6,1,0,100.0,76.25,60.63,79.88
+66,Mtwara,Rural,Secondary,Self-employed,2851088,7,29.3,5.99,1,1,Mud/Thatch,8,3,1,100.0,84.11,95.87,93.2
+69,Dodoma,Rural,Primary,Private Sector,999084,1,12.96,1.72,0,0,Brick/Iron Sheet,10,2,1,90.13,21.88,100.0,69.21
+59,Dodoma,Urban,Primary,Unemployed,570455,6,2.48,2.05,0,1,Brick/Iron Sheet,2,2,0,75.04,29.86,84.11,61.95
+23,Mwanza,Urban,Primary,Self-employed,2865841,6,5.96,1.84,0,0,Concrete/Modern,11,5,0,100.0,57.76,100.0,85.22
+32,Mwanza,Urban,Secondary,Student,332117,3,15.92,0.1,0,0,Brick/Iron Sheet,2,5,0,86.82,70.29,84.44,80.32
+60,Dodoma,Rural,No Education,Self-employed,1921644,2,7.92,4.37,1,0,Mud/Thatch,14,2,0,100.0,19.9,84.91,67.44
+54,Dar es Salaam,Rural,Secondary,Self-employed,2758492,2,10.5,6.0,1,1,Brick/Iron Sheet,9,2,1,100.0,99.29,100.0,99.75
+50,Arusha,Rural,Primary,Government,550985,9,14.01,9.62,1,1,Concrete/Modern,0,3,0,87.21,20.55,100.0,67.72
+25,Kilimanjaro,Urban,Primary,Unemployed,2243184,5,9.73,0.76,1,0,Brick/Iron Sheet,13,2,0,100.0,46.15,100.0,81.15
+61,Mtwara,Rural,College,Self-employed,604910,7,7.77,3.93,1,0,Brick/Iron Sheet,5,1,0,80.91,79.95,82.33,81.0
+61,Arusha,Rural,Primary,Self-employed,723090,5,13.85,0.04,0,0,Concrete/Modern,1,3,0,79.72,23.76,100.0,66.22
+22,Mbeya,Rural,No Education,Self-employed,2129341,7,13.0,0.5,1,1,Brick/Iron Sheet,7,2,1,100.0,25.52,100.0,73.93
+56,Kilimanjaro,Rural,College,Self-employed,2626915,4,9.94,0.28,1,1,Brick/Iron Sheet,0,3,0,100.0,100.0,100.0,100.0
+21,Kilimanjaro,Urban,No Education,Unemployed,2502114,8,4.46,6.46,0,0,Brick/Iron Sheet,3,3,0,100.0,21.66,100.0,72.58
+23,Zanzibar,Urban,Secondary,Self-employed,2035430,7,5.21,0.42,1,0,Brick/Iron Sheet,3,4,1,100.0,87.41,100.0,95.59
+62,Dar es Salaam,Rural,Secondary,Unemployed,1869617,5,35.21,6.3,0,1,Mud/Thatch,4,5,0,100.0,77.1,83.59,87.06
+49,Dar es Salaam,Rural,Primary,Private Sector,2538761,6,1.19,1.44,0,0,Brick/Iron Sheet,8,3,1,100.0,53.26,100.0,83.64
+69,Kilimanjaro,Urban,College,Self-employed,2948039,5,3.13,10.51,0,0,Mud/Thatch,12,3,0,100.0,96.63,96.21,97.69
+47,Zanzibar,Rural,Secondary,Self-employed,737509,7,6.78,8.39,1,0,Concrete/Modern,17,4,0,100.0,48.45,100.0,81.96
+64,Mtwara,Rural,Primary,Government,2496629,2,18.12,15.83,0,1,Concrete/Modern,16,2,0,100.0,35.56,100.0,77.45
+52,Kilimanjaro,Rural,No Education,Private Sector,1275033,5,1.79,10.76,1,1,Brick/Iron Sheet,0,3,0,100.0,1.74,100.0,65.61
+57,Tanga,Rural,Primary,Unemployed,1427296,3,3.24,13.54,0,1,Mud/Thatch,14,4,0,95.92,28.36,100.0,73.5
+69,Mwanza,Rural,University,Government,980432,9,0.68,9.79,1,0,Mud/Thatch,1,1,0,88.15,88.76,50.76,77.15
+33,Mwanza,Rural,Primary,Self-employed,566995,6,12.24,5.91,1,1,Concrete/Modern,15,4,0,89.83,26.83,100.0,70.83
+30,Arusha,Rural,Secondary,Unemployed,2753041,3,2.72,0.93,1,0,Brick/Iron Sheet,4,5,0,100.0,77.93,100.0,92.27
+67,Mbeya,Rural,Secondary,Private Sector,2133436,7,4.92,1.59,1,1,Brick/Iron Sheet,4,5,0,100.0,82.32,100.0,93.81
+59,Mwanza,Rural,Secondary,Self-employed,1462836,4,5.86,1.2,0,1,Brick/Iron Sheet,1,2,1,100.0,82.59,100.0,93.91
+47,Morogoro,Rural,No Education,Self-employed,2166905,3,22.19,4.63,0,1,Brick/Iron Sheet,6,2,0,100.0,5.83,100.0,67.04
+36,Arusha,Urban,Primary,Self-employed,1659048,8,5.3,3.5,1,0,Brick/Iron Sheet,2,5,0,100.0,37.36,98.03,77.48
+34,Mwanza,Rural,Secondary,Self-employed,728474,4,1.57,10.09,0,0,Brick/Iron Sheet,16,5,1,100.0,68.7,88.62,85.63
+36,Mbeya,Rural,Primary,Self-employed,789995,1,7.43,15.25,0,1,Brick/Iron Sheet,2,3,0,75.47,18.48,100.0,62.88
+45,Dar es Salaam,Rural,Primary,Government,1729618,6,32.96,2.59,1,1,Concrete/Modern,12,5,0,100.0,49.61,100.0,82.37
+43,Dar es Salaam,Rural,No Education,Self-employed,2290002,1,9.36,3.53,1,0,Mud/Thatch,6,2,0,100.0,32.32,100.0,76.31
+54,Mtwara,Rural,Primary,Government,1889055,5,40.98,17.79,1,1,Mud/Thatch,2,5,0,100.0,29.76,90.97,72.71
+43,Kilimanjaro,Rural,College,Private Sector,1711735,7,18.4,1.62,1,1,Brick/Iron Sheet,14,2,0,100.0,100.0,100.0,100.0
+40,Tanga,Rural,No Education,Government,1342522,6,0.37,7.86,1,1,Mud/Thatch,17,1,1,100.0,0.0,75.34,57.6
+26,Dar es Salaam,Urban,Primary,Private Sector,2668101,2,10.74,1.28,1,1,Concrete/Modern,9,5,1,100.0,62.27,100.0,86.79
+29,Zanzibar,Rural,Primary,Private Sector,967392,4,3.38,5.72,1,0,Brick/Iron Sheet,6,2,0,100.0,30.98,81.22,70.21
+18,Mwanza,Rural,Secondary,Self-employed,1066325,2,8.2,1.46,0,0,Concrete/Modern,8,4,0,77.44,75.87,100.0,83.66
+18,Zanzibar,Rural,Secondary,Self-employed,1397776,1,3.28,10.76,1,0,Brick/Iron Sheet,4,3,0,100.0,68.06,100.0,88.82
+64,Mbeya,Urban,Primary,Self-employed,825527,3,4.29,4.12,1,1,Mud/Thatch,7,2,1,100.0,37.32,70.9,69.33
+51,Dar es Salaam,Urban,Secondary,Government,2141215,3,25.66,1.03,1,0,Brick/Iron Sheet,13,5,0,100.0,82.93,100.0,94.02
+49,Tanga,Rural,Secondary,Government,1603174,7,2.31,1.27,1,1,Concrete/Modern,3,5,0,100.0,64.01,100.0,87.4
+65,Mbeya,Urban,College,Self-employed,2680562,1,20.72,3.4,1,0,Mud/Thatch,13,1,0,100.0,83.81,94.32,92.63
+42,Morogoro,Urban,College,Unemployed,1907317,9,0.31,16.3,1,0,Brick/Iron Sheet,11,4,0,100.0,83.37,100.0,94.18
+57,Morogoro,Urban,Primary,Self-employed,1583702,6,0.95,7.34,0,1,Concrete/Modern,1,2,0,86.79,19.87,100.0,67.33
+62,Zanzibar,Urban,Primary,Private Sector,1353179,4,19.29,3.35,0,0,Brick/Iron Sheet,12,4,0,86.61,41.13,92.16,72.36
+18,Kilimanjaro,Urban,No Education,Self-employed,1829122,3,9.96,2.06,1,0,Brick/Iron Sheet,0,1,1,100.0,13.81,88.06,66.25
+33,Arusha,Rural,Primary,Private Sector,834172,3,13.75,3.98,1,1,Brick/Iron Sheet,6,3,0,100.0,47.22,100.0,81.53
+56,Kilimanjaro,Rural,University,Student,209779,2,2.35,6.9,0,0,Concrete/Modern,8,4,0,65.04,86.47,100.0,83.03
+22,Mtwara,Rural,Primary,Unemployed,1167133,2,7.7,7.66,1,0,Mud/Thatch,16,1,1,100.0,44.6,72.41,72.33
+39,Kilimanjaro,Rural,Primary,Self-employed,552082,5,13.36,1.96,0,0,Concrete/Modern,12,2,0,68.43,30.95,100.0,64.78
+46,Mtwara,Rural,Secondary,Self-employed,434248,9,9.87,6.39,1,1,Brick/Iron Sheet,9,3,0,78.14,68.93,94.37,79.79
+20,Mtwara,Urban,Secondary,Self-employed,1626369,2,6.38,5.36,1,1,Concrete/Modern,15,5,0,100.0,61.24,100.0,86.43
+29,Tanga,Urban,No Education,Unemployed,761440,2,32.13,15.98,1,1,Mud/Thatch,5,1,0,83.13,0.0,62.96,47.98
+43,Dar es Salaam,Rural,Primary,Unemployed,1293502,6,11.27,13.37,0,0,Mud/Thatch,15,5,0,100.0,22.65,59.63,60.82
+33,Tanga,Urban,Primary,Government,2057021,2,23.83,7.79,1,0,Concrete/Modern,10,3,1,100.0,27.68,100.0,74.69
+68,Mtwara,Rural,Secondary,Self-employed,2920207,4,13.08,6.43,1,1,Concrete/Modern,2,1,1,100.0,84.08,100.0,94.43
+54,Mbeya,Rural,No Education,Self-employed,2762521,6,13.3,1.6,1,1,Brick/Iron Sheet,8,1,0,100.0,26.92,100.0,74.42
+39,Morogoro,Rural,Primary,Government,1021872,5,0.83,9.35,1,0,Brick/Iron Sheet,14,3,0,100.0,31.03,96.27,74.74
+46,Mtwara,Urban,Secondary,Private Sector,854981,1,4.45,2.79,1,0,Concrete/Modern,12,2,0,90.0,55.85,100.0,81.05
+31,Tanga,Urban,Primary,Unemployed,481325,6,19.55,1.59,1,1,Mud/Thatch,9,1,0,74.39,40.83,67.83,60.68
+45,Mbeya,Rural,Secondary,Private Sector,913526,1,2.65,2.42,0,1,Brick/Iron Sheet,12,3,0,90.68,77.41,100.0,88.83
+22,Tanga,Urban,Primary,Self-employed,1063544,3,1.23,9.04,1,0,Concrete/Modern,16,4,0,100.0,25.43,100.0,73.9
+64,Kilimanjaro,Rural,Primary,Private Sector,2526062,5,3.95,0.8,1,0,Brick/Iron Sheet,6,5,0,100.0,57.88,100.0,85.26
+66,Mwanza,Rural,University,Private Sector,1936309,5,2.49,3.05,1,0,Brick/Iron Sheet,5,1,0,100.0,100.0,88.91,96.67
+47,Zanzibar,Rural,Secondary,Private Sector,783970,6,25.94,3.39,0,0,Concrete/Modern,12,4,0,77.23,59.69,100.0,77.92
+63,Arusha,Urban,No Education,Self-employed,705751,8,20.25,0.19,0,1,Brick/Iron Sheet,16,1,0,72.46,1.04,93.2,53.69
+69,Tanga,Rural,Secondary,Government,1838614,5,6.93,1.09,0,1,Mud/Thatch,14,2,0,95.63,100.0,70.78,89.7
+22,Arusha,Rural,Secondary,Unemployed,573656,1,0.63,8.76,1,1,Concrete/Modern,3,3,1,100.0,67.42,100.0,88.6
+29,Dodoma,Rural,Secondary,Unemployed,1058379,5,12.54,8.88,1,0,Brick/Iron Sheet,14,1,0,100.0,70.54,92.61,87.47
+33,Tanga,Urban,Primary,Self-employed,1174657,3,9.77,1.73,1,0,Concrete/Modern,13,3,1,100.0,48.87,100.0,82.1
+43,Mwanza,Rural,University,Unemployed,1172930,4,35.25,10.39,1,0,Concrete/Modern,10,1,1,100.0,85.83,100.0,95.04
+43,Arusha,Urban,Primary,Self-employed,717585,8,8.19,7.39,0,0,Mud/Thatch,3,2,1,74.75,13.82,48.02,45.4
+65,Mtwara,Rural,Primary,Government,1794548,7,4.1,2.71,1,1,Mud/Thatch,2,2,0,100.0,45.49,73.66,73.02
+38,Tanga,Urban,Primary,Government,2232677,5,7.32,6.9,1,0,Brick/Iron Sheet,1,4,1,100.0,45.78,100.0,81.02
+56,Dar es Salaam,Rural,No Education,Self-employed,106464,2,38.76,16.26,0,0,Brick/Iron Sheet,9,2,0,32.65,0.0,83.48,36.47
+53,Zanzibar,Rural,College,Self-employed,1689426,6,11.92,3.07,1,0,Brick/Iron Sheet,12,3,0,100.0,74.41,100.0,91.04
+50,Mwanza,Rural,No Education,Self-employed,2572724,6,11.15,1.36,1,1,Brick/Iron Sheet,17,2,0,100.0,34.66,100.0,77.13
+47,Arusha,Urban,No Education,Self-employed,1261140,6,2.75,14.22,1,1,Brick/Iron Sheet,15,1,0,88.6,0.0,100.0,61.01
+54,Mwanza,Urban,College,Unemployed,1518767,9,13.61,4.63,0,1,Mud/Thatch,10,2,0,78.66,89.87,69.65,79.88
+40,Mbeya,Rural,Primary,Government,2754074,8,13.87,0.56,1,0,Brick/Iron Sheet,9,3,0,100.0,70.66,100.0,89.73
+27,Zanzibar,Rural,No Education,Self-employed,1935068,8,3.82,4.25,1,1,Brick/Iron Sheet,8,1,0,100.0,18.37,98.86,71.09
+22,Mtwara,Urban,No Education,Self-employed,1944277,1,6.61,3.47,1,0,Brick/Iron Sheet,11,4,0,100.0,22.85,100.0,73.0
+53,Tanga,Rural,No Education,Unemployed,2391367,5,3.49,9.68,0,0,Mud/Thatch,0,4,0,99.34,12.18,88.14,65.47
+51,Tanga,Rural,Primary,Government,1695929,7,2.99,3.78,0,1,Brick/Iron Sheet,17,4,0,100.0,38.21,100.0,78.38
+69,Tanga,Rural,Secondary,Private Sector,365039,6,0.26,1.47,1,0,Mud/Thatch,13,1,1,92.16,67.27,60.72,74.02
+48,Zanzibar,Rural,Primary,Government,1491579,5,3.36,5.63,1,1,Brick/Iron Sheet,0,4,0,100.0,40.97,100.0,79.34
+27,Dar es Salaam,Rural,No Education,Private Sector,2176259,8,8.07,3.91,1,0,Brick/Iron Sheet,16,2,0,100.0,4.01,100.0,66.4
+36,Dodoma,Urban,Secondary,Self-employed,1067241,3,0.02,1.33,0,1,Mud/Thatch,10,1,1,100.0,60.45,63.42,75.18
+49,Morogoro,Rural,Secondary,Self-employed,2301279,6,3.33,4.26,0,1,Brick/Iron Sheet,14,1,0,100.0,84.69,100.0,94.64
+18,Kilimanjaro,Rural,Primary,Private Sector,196426,5,21.32,8.62,1,1,Brick/Iron Sheet,3,1,0,75.83,41.17,71.54,62.41
+22,Arusha,Urban,Secondary,Self-employed,1340952,8,9.01,0.14,1,1,Mud/Thatch,14,5,1,100.0,69.58,77.74,82.68
+62,Dar es Salaam,Rural,Primary,Private Sector,1160538,4,9.36,4.98,1,1,Mud/Thatch,13,3,1,100.0,31.48,65.02,65.52
+21,Mtwara,Rural,Primary,Unemployed,2230454,8,5.16,2.15,1,0,Concrete/Modern,0,5,0,100.0,52.26,100.0,83.29
+33,Arusha,Rural,Secondary,Unemployed,1496102,2,11.28,1.73,1,1,Brick/Iron Sheet,8,5,0,87.94,66.85,100.0,84.18
+41,Tanga,Rural,Primary,Self-employed,104011,9,2.11,2.49,0,1,Concrete/Modern,6,5,1,78.39,51.13,100.0,75.33
+33,Mwanza,Rural,College,Private Sector,2064724,9,17.08,2.09,0,0,Brick/Iron Sheet,10,3,0,89.3,90.58,91.42,90.38
+19,Mtwara,Rural,No Education,Private Sector,119782,6,1.24,8.93,1,1,Brick/Iron Sheet,1,5,0,85.47,0.0,96.56,58.88
+66,Arusha,Urban,Secondary,Unemployed,2188097,4,10.67,1.61,0,1,Brick/Iron Sheet,1,4,0,78.48,78.03,100.0,84.78
+45,Tanga,Rural,No Education,Self-employed,532941,4,4.17,6.61,0,1,Brick/Iron Sheet,5,1,0,87.42,7.9,85.61,59.05
+49,Arusha,Urban,Secondary,Unemployed,1682060,6,13.76,0.49,1,0,Brick/Iron Sheet,13,1,1,100.0,93.38,88.01,94.09
+44,Mwanza,Rural,Secondary,Unemployed,2808685,5,7.98,15.12,1,1,Brick/Iron Sheet,2,2,1,100.0,64.78,100.0,87.67
+37,Tanga,Rural,College,Self-employed,2719981,6,6.02,4.87,0,0,Brick/Iron Sheet,6,4,1,100.0,100.0,100.0,100.0
+41,Dodoma,Rural,No Education,Unemployed,703151,7,1.86,6.13,0,0,Mud/Thatch,6,3,0,93.31,0.0,54.56,49.03
+29,Dar es Salaam,Rural,Secondary,Self-employed,1923327,7,10.13,1.77,0,1,Mud/Thatch,3,1,0,100.0,89.25,70.39,87.36
+67,Mbeya,Rural,Secondary,Self-employed,2566825,9,36.8,2.66,1,0,Brick/Iron Sheet,4,5,1,100.0,95.75,100.0,98.51
+52,Kilimanjaro,Rural,Secondary,Self-employed,1884292,8,17.46,1.27,0,1,Brick/Iron Sheet,16,2,0,98.14,93.56,100.0,97.1
+50,Zanzibar,Rural,Secondary,Unemployed,2428389,6,0.62,13.48,0,0,Brick/Iron Sheet,3,2,1,100.0,65.13,97.6,87.07
+50,Kilimanjaro,Urban,Secondary,Unemployed,1940277,6,4.72,3.35,1,0,Concrete/Modern,12,1,1,100.0,66.12,100.0,88.14
+68,Mtwara,Rural,Primary,Unemployed,1008063,5,25.98,4.98,0,0,Brick/Iron Sheet,15,4,0,64.37,32.62,83.01,58.85
+60,Kilimanjaro,Rural,Primary,Unemployed,406024,1,6.99,6.63,0,1,Mud/Thatch,15,2,0,64.39,26.63,69.7,52.77
+54,Tanga,Rural,Primary,Private Sector,214003,9,10.85,2.32,0,1,Brick/Iron Sheet,1,1,0,85.3,30.09,73.63,62.47
+29,Dodoma,Urban,No Education,Self-employed,1287968,9,24.37,6.37,0,0,Concrete/Modern,17,4,1,95.42,4.98,100.0,65.14
+20,Mbeya,Urban,University,Self-employed,2246741,9,20.7,5.63,0,0,Mud/Thatch,0,1,0,100.0,100.0,53.69,86.11
+18,Dar es Salaam,Urban,Secondary,Self-employed,350606,8,6.97,6.12,0,0,Brick/Iron Sheet,17,1,1,86.02,60.0,56.02,67.91
+50,Dar es Salaam,Urban,University,Private Sector,831636,3,5.76,3.36,1,1,Brick/Iron Sheet,7,4,0,69.47,100.0,100.0,89.32
+57,Mwanza,Rural,Primary,Government,660185,1,4.15,2.41,0,0,Mud/Thatch,10,4,0,82.76,32.48,89.0,67.03
+27,Zanzibar,Rural,College,Private Sector,2386789,8,12.69,1.26,1,1,Brick/Iron Sheet,14,4,0,100.0,100.0,100.0,100.0
+60,Arusha,Rural,College,Private Sector,786290,7,3.38,8.7,1,1,Mud/Thatch,15,1,0,100.0,90.38,66.65,86.63
+61,Dodoma,Urban,Secondary,Self-employed,1861169,5,2.88,4.69,1,1,Concrete/Modern,16,2,1,100.0,72.33,100.0,90.31
+46,Arusha,Urban,Secondary,Private Sector,1949388,7,4.4,2.94,0,1,Brick/Iron Sheet,16,3,0,100.0,80.21,100.0,93.07
+30,Mbeya,Urban,Primary,Private Sector,1880832,4,1.95,14.41,0,1,Brick/Iron Sheet,11,3,0,100.0,23.96,100.0,73.39
+29,Kilimanjaro,Urban,College,Self-employed,2777270,9,11.88,0.25,1,0,Brick/Iron Sheet,9,1,1,100.0,100.0,100.0,100.0
+48,Dar es Salaam,Urban,Secondary,Self-employed,2464825,2,9.58,9.49,1,1,Brick/Iron Sheet,5,1,0,100.0,77.0,100.0,91.95
+63,Mbeya,Urban,No Education,Self-employed,2553894,9,6.59,30.13,1,1,Brick/Iron Sheet,7,2,0,100.0,0.0,100.0,65.0
+19,Kilimanjaro,Rural,Primary,Government,857582,9,4.95,10.9,0,0,Mud/Thatch,12,4,0,85.36,14.32,50.39,50.0
+68,Dar es Salaam,Rural,University,Self-employed,2280139,5,23.98,8.32,1,1,Brick/Iron Sheet,1,1,0,100.0,100.0,100.0,100.0
+67,Kilimanjaro,Rural,College,Private Sector,1532672,1,0.3,2.34,0,0,Mud/Thatch,9,5,0,100.0,92.63,100.0,97.42
+52,Zanzibar,Rural,University,Self-employed,664174,7,14.66,1.32,1,0,Brick/Iron Sheet,3,4,1,100.0,100.0,90.81,97.24
+40,Dodoma,Rural,Secondary,Self-employed,1722563,4,23.22,6.64,1,0,Mud/Thatch,11,1,0,100.0,63.77,71.23,78.69
+34,Mtwara,Urban,Primary,Unemployed,1749260,9,5.91,1.82,0,1,Brick/Iron Sheet,17,5,0,100.0,55.23,100.0,84.33
+43,Mbeya,Urban,Primary,Unemployed,1763542,6,8.0,0.97,1,1,Mud/Thatch,6,2,0,100.0,54.74,87.04,80.27
+25,Mbeya,Rural,Primary,Government,2746719,3,28.91,7.72,1,1,Concrete/Modern,3,5,0,100.0,63.08,100.0,87.08
+46,Morogoro,Urban,No Education,Private Sector,2628474,6,2.39,1.87,1,0,Brick/Iron Sheet,6,1,0,100.0,22.54,100.0,72.89
+43,Tanga,Rural,Primary,Self-employed,2307928,6,7.34,12.29,1,1,Brick/Iron Sheet,9,3,0,100.0,35.2,100.0,77.32
+27,Zanzibar,Rural,Primary,Government,2565596,5,6.44,9.18,1,0,Concrete/Modern,14,1,1,100.0,37.93,100.0,78.28
+43,Zanzibar,Urban,Primary,Self-employed,310809,2,2.99,9.41,1,1,Brick/Iron Sheet,11,3,0,97.11,15.13,100.0,69.28
+51,Arusha,Urban,University,Student,1320192,2,17.07,7.38,0,0,Concrete/Modern,0,2,0,83.87,93.1,100.0,91.94
+68,Kilimanjaro,Rural,Primary,Self-employed,1513967,7,22.99,10.64,1,0,Mud/Thatch,17,2,0,89.97,10.46,80.52,59.3
+58,Tanga,Urban,College,Self-employed,633285,2,15.23,8.19,0,0,Brick/Iron Sheet,15,4,1,72.0,84.99,87.57,81.22
+24,Dodoma,Urban,Secondary,Self-employed,972143,6,2.17,4.61,1,1,Brick/Iron Sheet,4,4,0,100.0,83.27,100.0,94.15
+21,Dodoma,Rural,Primary,Unemployed,2762300,5,0.91,1.75,0,1,Concrete/Modern,3,3,0,100.0,58.81,100.0,85.58
+67,Zanzibar,Rural,Primary,Unemployed,1782978,4,9.3,10.96,1,1,Brick/Iron Sheet,5,3,0,100.0,39.9,100.0,78.97
+62,Dodoma,Urban,No Education,Private Sector,2834658,7,0.59,9.18,1,1,Concrete/Modern,16,2,0,100.0,20.89,100.0,72.31
+28,Morogoro,Rural,Primary,Government,2719222,8,11.17,3.2,1,1,Brick/Iron Sheet,6,5,0,100.0,46.89,100.0,81.41
+46,Mbeya,Rural,Secondary,Private Sector,2035772,4,7.56,0.2,1,1,Concrete/Modern,6,3,1,100.0,93.27,100.0,97.64
+53,Mwanza,Rural,No Education,Unemployed,2304193,1,10.87,5.09,1,1,Brick/Iron Sheet,8,3,0,100.0,29.81,100.0,75.43
+42,Mtwara,Rural,Primary,Self-employed,474368,1,8.92,0.26,1,0,Mud/Thatch,12,5,0,98.95,26.03,100.0,73.74
+38,Arusha,Rural,Primary,Unemployed,2522952,1,5.49,13.04,1,0,Concrete/Modern,13,4,0,100.0,38.31,100.0,78.41
+53,Kilimanjaro,Rural,University,Unemployed,2913590,1,2.24,16.3,1,1,Concrete/Modern,15,4,0,100.0,100.0,100.0,100.0
+27,Mtwara,Rural,Secondary,Private Sector,2679014,5,3.65,1.05,0,1,Brick/Iron Sheet,8,3,0,100.0,99.73,100.0,99.91
+54,Kilimanjaro,Urban,Secondary,Self-employed,1961663,4,7.43,5.64,1,0,Mud/Thatch,14,4,1,100.0,70.49,91.02,86.98
+26,Dar es Salaam,Rural,No Education,Unemployed,1269694,9,10.55,0.48,1,1,Mud/Thatch,4,4,1,100.0,16.52,72.41,62.51
+41,Mtwara,Urban,Secondary,Unemployed,2896113,3,15.12,6.54,1,1,Brick/Iron Sheet,17,4,1,100.0,98.72,100.0,99.55
+52,Mwanza,Urban,Secondary,Student,1151690,7,14.57,2.13,1,0,Mud/Thatch,7,2,1,100.0,58.03,58.3,72.8
+66,Zanzibar,Urban,Secondary,Unemployed,149768,8,36.0,5.71,1,1,Brick/Iron Sheet,14,1,0,66.16,59.91,88.5,70.67
+52,Morogoro,Rural,University,Self-employed,1561820,6,3.37,2.33,1,1,Brick/Iron Sheet,8,3,0,100.0,100.0,100.0,100.0
+65,Mbeya,Rural,Primary,Self-employed,1073069,1,0.74,0.79,0,1,Brick/Iron Sheet,5,3,0,78.13,39.72,100.0,71.25
+53,Mbeya,Urban,University,Unemployed,2280275,8,4.24,2.61,0,0,Mud/Thatch,3,2,0,100.0,100.0,76.22,92.87
+35,Morogoro,Urban,College,Unemployed,2363557,3,13.6,0.6,1,1,Brick/Iron Sheet,10,1,1,100.0,100.0,100.0,100.0
+66,Tanga,Rural,No Education,Self-employed,2200326,8,5.76,4.3,1,1,Brick/Iron Sheet,9,1,1,100.0,25.93,100.0,74.07
+56,Dar es Salaam,Rural,Primary,Private Sector,217769,4,17.03,0.21,0,1,Brick/Iron Sheet,2,2,1,65.26,43.38,69.76,58.95
+49,Kilimanjaro,Urban,University,Self-employed,397542,8,7.97,3.75,1,1,Brick/Iron Sheet,0,5,0,89.13,95.79,100.0,94.72
+41,Mwanza,Rural,No Education,Private Sector,2626297,1,26.56,10.87,1,0,Brick/Iron Sheet,11,5,0,100.0,19.89,100.0,71.96
+40,Dodoma,Rural,Secondary,Student,1534269,3,29.54,9.1,1,1,Brick/Iron Sheet,14,1,0,100.0,75.02,100.0,91.26
+49,Mtwara,Rural,University,Private Sector,866868,6,0.72,10.72,1,0,Concrete/Modern,14,5,0,91.71,86.61,100.0,92.41
+54,Dar es Salaam,Urban,Secondary,Self-employed,1335069,9,6.1,12.76,1,1,Brick/Iron Sheet,13,5,0,79.85,66.72,100.0,81.3
+29,Mtwara,Rural,Primary,Self-employed,2794075,2,9.41,0.55,1,1,Concrete/Modern,6,5,0,100.0,72.03,100.0,90.21
+66,Mwanza,Rural,Secondary,Private Sector,1958768,1,2.96,0.69,1,1,Brick/Iron Sheet,16,1,1,95.88,89.91,100.0,95.03
+30,Arusha,Rural,Primary,Private Sector,1028864,3,5.23,4.07,1,1,Concrete/Modern,6,5,1,100.0,32.5,100.0,76.38
+40,Arusha,Rural,Secondary,Self-employed,1814249,4,11.32,11.22,1,1,Mud/Thatch,2,3,0,100.0,65.57,96.29,86.84
+42,Dar es Salaam,Rural,No Education,Private Sector,867166,5,2.57,18.32,1,0,Brick/Iron Sheet,2,1,0,100.0,0.0,86.64,60.99
+52,Zanzibar,Urban,Secondary,Unemployed,2414222,3,9.21,0.24,1,1,Brick/Iron Sheet,17,2,0,100.0,90.8,100.0,96.78
+58,Mwanza,Rural,Secondary,Self-employed,499017,2,11.96,2.2,1,0,Brick/Iron Sheet,13,5,0,70.41,55.73,100.0,74.15
+47,Mwanza,Rural,Secondary,Self-employed,1031775,2,0.95,1.2,1,1,Brick/Iron Sheet,2,4,1,100.0,71.23,100.0,89.93
+34,Morogoro,Urban,Secondary,Unemployed,1557867,7,6.88,7.05,1,0,Brick/Iron Sheet,6,1,0,100.0,67.82,100.0,88.74
+66,Zanzibar,Rural,Secondary,Unemployed,1644247,9,3.05,5.11,0,1,Brick/Iron Sheet,6,2,0,97.95,61.7,93.37,83.89
+37,Kilimanjaro,Urban,Secondary,Private Sector,2566511,2,12.89,0.64,1,1,Brick/Iron Sheet,4,3,0,100.0,89.86,100.0,96.45
+65,Kilimanjaro,Urban,No Education,Self-employed,947374,7,2.1,3.3,1,1,Brick/Iron Sheet,2,2,0,100.0,15.09,97.2,69.44
+42,Dodoma,Rural,Secondary,Self-employed,2341085,7,22.28,5.78,1,0,Concrete/Modern,17,5,1,100.0,77.0,100.0,91.95
+39,Mbeya,Rural,Primary,Self-employed,1348749,7,5.64,7.55,1,1,Brick/Iron Sheet,14,4,0,95.15,30.31,100.0,73.91
+30,Arusha,Rural,University,Self-employed,2699098,3,2.21,0.1,1,1,Brick/Iron Sheet,13,5,1,100.0,100.0,100.0,100.0
+36,Kilimanjaro,Urban,No Education,Unemployed,776337,7,5.76,11.06,1,1,Brick/Iron Sheet,3,2,0,94.49,8.07,100.0,65.9
+66,Zanzibar,Rural,Primary,Private Sector,2123553,1,5.26,4.21,1,1,Concrete/Modern,7,1,1,100.0,42.42,100.0,79.85
+53,Mwanza,Urban,Secondary,Private Sector,1366302,1,5.6,8.35,0,1,Brick/Iron Sheet,12,4,0,97.57,75.62,100.0,90.62
+29,Kilimanjaro,Rural,Primary,Private Sector,2196419,5,8.81,8.25,1,1,Brick/Iron Sheet,7,4,0,100.0,39.62,100.0,78.87
+58,Mwanza,Rural,No Education,Private Sector,192172,2,7.36,1.05,1,0,Mud/Thatch,14,2,0,76.82,9.38,65.63,49.86
+36,Kilimanjaro,Rural,Secondary,Self-employed,770990,9,1.62,0.58,1,1,Brick/Iron Sheet,16,5,0,100.0,76.16,100.0,91.66
+29,Arusha,Rural,Secondary,Unemployed,644344,7,0.68,6.39,1,1,Brick/Iron Sheet,4,2,1,88.12,59.08,99.89,81.49
+26,Mtwara,Urban,Secondary,Self-employed,1287030,4,13.07,0.85,1,1,Brick/Iron Sheet,3,4,0,100.0,62.46,100.0,86.86
+24,Kilimanjaro,Rural,Primary,Unemployed,1204315,4,8.2,9.48,1,0,Concrete/Modern,10,2,1,100.0,31.01,100.0,75.85
+45,Zanzibar,Rural,Secondary,Student,148639,2,4.45,6.48,1,1,Brick/Iron Sheet,17,4,0,84.75,58.22,100.0,80.04
+31,Kilimanjaro,Rural,Primary,Unemployed,2650206,5,16.52,9.22,0,1,Brick/Iron Sheet,9,5,1,100.0,50.98,100.0,82.84
+48,Mbeya,Rural,Secondary,Unemployed,2636409,4,4.91,1.78,1,0,Brick/Iron Sheet,16,1,0,100.0,88.01,100.0,95.81
+69,Arusha,Urban,Secondary,Government,2984576,1,15.89,1.9,1,1,Brick/Iron Sheet,14,1,1,100.0,81.48,100.0,93.52
+36,Zanzibar,Urban,Secondary,Government,696682,8,3.65,5.56,1,0,Brick/Iron Sheet,5,2,1,96.31,61.77,85.71,81.04
+64,Morogoro,Rural,Primary,Private Sector,429801,3,0.76,0.16,0,0,Brick/Iron Sheet,15,4,0,70.36,40.0,76.0,61.43
+33,Zanzibar,Urban,No Education,Unemployed,1980164,6,26.98,6.48,0,1,Brick/Iron Sheet,14,1,0,86.53,20.92,98.13,67.05
+22,Mbeya,Urban,Primary,Unemployed,282447,4,5.02,9.03,1,1,Mud/Thatch,7,4,0,68.65,14.25,76.15,51.86
+52,Mtwara,Rural,No Education,Self-employed,2545738,9,15.74,2.68,0,0,Brick/Iron Sheet,8,5,0,100.0,30.67,100.0,75.73
+29,Arusha,Rural,Primary,Unemployed,774932,7,3.27,7.24,0,1,Brick/Iron Sheet,10,2,0,91.2,35.32,90.34,71.39
+42,Morogoro,Rural,Secondary,Unemployed,480069,9,10.39,0.96,0,1,Brick/Iron Sheet,1,4,0,55.12,72.81,98.02,74.18
+69,Mbeya,Rural,Primary,Self-employed,104136,3,20.66,1.94,1,1,Brick/Iron Sheet,12,2,1,87.14,25.96,94.35,67.89
+38,Mbeya,Rural,University,Government,2259020,1,0.43,18.31,1,1,Mud/Thatch,3,4,1,100.0,100.0,100.0,100.0
+53,Dar es Salaam,Urban,No Education,Self-employed,2541559,5,17.76,21.46,0,1,Mud/Thatch,8,4,1,100.0,0.0,96.98,64.09
+40,Arusha,Urban,Secondary,Private Sector,210957,3,8.47,3.59,0,1,Brick/Iron Sheet,4,5,0,56.5,54.93,88.78,65.64
+33,Zanzibar,Urban,Secondary,Private Sector,639767,6,9.35,13.61,1,0,Brick/Iron Sheet,2,2,1,100.0,56.11,81.04,78.95
+56,Mwanza,Rural,Primary,Self-employed,219392,8,7.41,3.7,1,1,Brick/Iron Sheet,2,3,0,59.65,37.32,83.01,58.84
+62,Mtwara,Rural,No Education,Private Sector,760183,4,20.75,1.72,0,1,Brick/Iron Sheet,5,4,0,53.81,12.35,100.0,53.15
+59,Mwanza,Rural,Secondary,Self-employed,2977668,5,0.44,1.55,1,1,Concrete/Modern,9,4,0,100.0,100.0,100.0,100.0
+56,Zanzibar,Rural,Primary,Unemployed,1350104,5,3.02,13.26,1,0,Brick/Iron Sheet,4,1,1,100.0,31.71,97.76,75.43
+31,Zanzibar,Rural,University,Private Sector,906017,4,20.86,0.95,1,1,Mud/Thatch,2,2,1,93.17,100.0,69.36,88.42
+48,Arusha,Urban,Secondary,Unemployed,2083352,4,13.96,4.33,1,0,Brick/Iron Sheet,6,3,0,100.0,72.59,100.0,90.41
+22,Zanzibar,Rural,University,Student,1961627,4,0.18,4.05,1,1,Mud/Thatch,17,5,1,100.0,100.0,100.0,100.0
+52,Dar es Salaam,Urban,Primary,Unemployed,961501,4,7.28,6.73,1,0,Concrete/Modern,7,3,0,92.91,24.22,100.0,70.99
+40,Morogoro,Urban,Secondary,Private Sector,365864,4,7.54,3.46,1,1,Mud/Thatch,0,5,1,93.14,74.76,70.33,79.86
+46,Zanzibar,Urban,Secondary,Self-employed,381411,5,5.12,1.59,1,1,Brick/Iron Sheet,3,3,0,82.9,56.23,100.0,78.69
+60,Mwanza,Rural,Secondary,Unemployed,1295344,2,3.53,0.93,1,1,Mud/Thatch,6,3,0,99.19,80.49,100.0,92.89
+28,Zanzibar,Rural,Primary,Unemployed,785328,2,11.45,4.85,0,0,Concrete/Modern,13,2,0,79.33,34.52,100.0,69.85
+35,Dar es Salaam,Urban,Secondary,Private Sector,2512660,9,2.33,6.35,1,0,Brick/Iron Sheet,12,1,0,100.0,87.35,100.0,95.57
+64,Kilimanjaro,Urban,Primary,Government,516561,2,16.04,4.21,1,0,Concrete/Modern,9,3,0,76.29,32.76,100.0,68.17
+29,Kilimanjaro,Rural,Secondary,Government,151567,6,16.25,6.7,0,0,Mud/Thatch,17,4,0,77.06,48.07,30.98,53.09
+26,Mbeya,Urban,Primary,Self-employed,2288381,2,5.37,0.76,1,1,Mud/Thatch,0,4,0,100.0,53.48,100.0,83.72
+27,Mtwara,Rural,College,Private Sector,1625450,5,3.33,10.71,0,0,Mud/Thatch,3,4,1,100.0,80.15,66.62,83.04
+61,Dodoma,Rural,No Education,Private Sector,1869361,4,3.34,4.37,0,1,Concrete/Modern,15,1,1,100.0,26.21,100.0,74.17
+34,Morogoro,Rural,College,Private Sector,707132,7,6.58,0.68,0,0,Concrete/Modern,15,3,0,84.31,92.51,100.0,91.89
+55,Tanga,Rural,College,Self-employed,1312567,7,12.71,3.1,1,1,Mud/Thatch,17,5,1,100.0,84.79,83.32,89.67
+24,Mbeya,Urban,College,Private Sector,1730060,6,4.45,9.31,0,1,Mud/Thatch,7,5,0,93.78,90.56,71.62,86.0
+63,Mtwara,Rural,Secondary,Government,2837040,5,9.42,11.39,1,0,Brick/Iron Sheet,9,2,1,100.0,77.88,100.0,92.26
+30,Kilimanjaro,Rural,Primary,Self-employed,724913,1,4.82,1.54,1,1,Mud/Thatch,15,1,0,95.97,38.05,77.17,70.06
+57,Mwanza,Rural,University,Government,1621193,3,3.63,6.21,1,0,Mud/Thatch,10,3,0,98.9,84.62,89.79,91.17
+59,Tanga,Urban,Primary,Private Sector,1017999,9,0.25,0.53,0,0,Mud/Thatch,5,4,0,90.29,37.82,47.33,59.04
+26,Mtwara,Rural,Secondary,Unemployed,2133764,1,0.04,0.17,1,1,Mud/Thatch,0,1,1,100.0,74.2,82.64,85.76
+67,Mtwara,Rural,Secondary,Unemployed,494768,5,2.58,4.11,1,1,Brick/Iron Sheet,11,1,0,87.28,50.64,100.0,78.27
+44,Mbeya,Urban,Secondary,Self-employed,151272,2,5.22,5.93,1,1,Mud/Thatch,5,3,1,65.09,66.13,80.69,70.14
+19,Tanga,Rural,Primary,Self-employed,2626221,4,19.06,7.94,1,1,Brick/Iron Sheet,12,2,0,100.0,69.52,100.0,89.33
+22,Arusha,Rural,Secondary,Government,349264,1,16.02,2.08,1,1,Concrete/Modern,16,2,0,100.0,76.29,100.0,91.7
+46,Dodoma,Rural,College,Unemployed,2885436,3,3.11,0.03,1,1,Brick/Iron Sheet,0,2,0,100.0,92.92,100.0,97.52
+54,Arusha,Urban,No Education,Government,336538,7,2.8,3.27,1,1,Brick/Iron Sheet,7,4,1,91.49,2.08,90.68,59.96
+55,Tanga,Rural,College,Government,2776115,3,2.58,0.08,0,1,Mud/Thatch,7,4,0,100.0,100.0,100.0,100.0
+36,Arusha,Rural,No Education,Unemployed,615447,4,4.14,0.48,1,0,Brick/Iron Sheet,10,3,1,100.0,0.0,94.89,63.47
+25,Dar es Salaam,Rural,Primary,Government,253706,2,6.9,1.98,1,0,Brick/Iron Sheet,13,2,0,86.09,33.29,91.02,69.09
+65,Kilimanjaro,Urban,No Education,Student,2536300,3,5.77,2.87,1,1,Brick/Iron Sheet,9,3,1,100.0,24.57,100.0,73.6
+62,Dar es Salaam,Rural,No Education,Private Sector,1073902,9,2.46,1.64,1,1,Mud/Thatch,14,2,0,100.0,3.97,68.49,56.94
+18,Zanzibar,Urban,College,Private Sector,853818,3,1.4,4.36,1,0,Concrete/Modern,6,1,0,100.0,65.55,100.0,87.94
+39,Arusha,Rural,Primary,Student,927150,5,0.13,0.28,1,1,Mud/Thatch,6,5,0,100.0,38.97,78.9,72.31
+69,Zanzibar,Rural,Primary,Private Sector,1886852,2,1.67,0.78,0,0,Brick/Iron Sheet,9,5,0,85.05,47.76,100.0,76.48
+34,Mwanza,Urban,Primary,Self-employed,2486166,4,12.22,5.94,0,1,Concrete/Modern,3,2,0,100.0,50.0,100.0,82.5
+24,Morogoro,Rural,Secondary,Government,938489,7,2.79,0.77,0,0,Brick/Iron Sheet,17,3,1,98.57,76.74,83.29,86.34
+42,Mwanza,Urban,Secondary,Private Sector,1228371,7,6.32,5.11,1,1,Brick/Iron Sheet,9,4,0,90.62,72.33,99.11,86.77
+62,Tanga,Rural,Primary,Private Sector,442553,3,8.95,0.28,1,1,Concrete/Modern,13,2,0,91.65,36.25,100.0,74.76
+21,Mtwara,Rural,Primary,Self-employed,142137,5,21.79,2.62,1,0,Brick/Iron Sheet,12,2,0,86.34,20.96,71.36,58.96
+53,Kilimanjaro,Rural,College,Private Sector,1541945,1,21.97,0.98,1,1,Mud/Thatch,14,4,0,88.47,84.79,100.0,90.64
+23,Arusha,Urban,Primary,Unemployed,238925,1,13.69,0.58,1,1,Concrete/Modern,15,2,0,68.24,27.79,100.0,63.61
+48,Mbeya,Rural,Primary,Government,2733819,5,0.36,4.19,1,0,Brick/Iron Sheet,1,1,0,100.0,61.93,100.0,86.67
+36,Morogoro,Urban,Primary,Self-employed,1033296,9,8.56,13.18,1,0,Concrete/Modern,3,4,1,94.15,27.48,100.0,72.57
+61,Dodoma,Urban,Secondary,Unemployed,2318321,1,15.45,0.28,1,0,Mud/Thatch,17,1,0,100.0,85.07,88.0,91.17
+56,Dodoma,Rural,Primary,Self-employed,1318015,1,0.17,2.74,1,1,Brick/Iron Sheet,16,5,1,100.0,40.12,100.0,79.04
+44,Dodoma,Urban,Secondary,Unemployed,475233,4,7.98,6.15,0,1,Brick/Iron Sheet,9,4,0,80.32,70.46,75.81,75.52
+27,Arusha,Rural,Primary,Private Sector,1080960,4,19.5,3.11,1,0,Concrete/Modern,8,4,0,100.0,28.06,100.0,74.82
+43,Dodoma,Rural,University,Government,1683913,2,6.43,8.21,1,1,Brick/Iron Sheet,14,3,0,100.0,96.52,100.0,98.78
+36,Dar es Salaam,Urban,Primary,Government,2660272,9,0.04,0.99,0,0,Mud/Thatch,11,3,1,100.0,54.37,71.0,75.33
+56,Morogoro,Urban,Secondary,Unemployed,1834635,9,0.11,16.04,1,1,Brick/Iron Sheet,8,4,0,100.0,41.82,100.0,79.64
+20,Dar es Salaam,Rural,Primary,Unemployed,2057792,2,5.39,2.43,1,0,Mud/Thatch,13,5,1,100.0,38.61,100.0,78.51
+62,Mtwara,Urban,Primary,Government,934123,9,1.68,2.09,1,1,Concrete/Modern,12,2,0,94.63,39.32,100.0,76.88
+30,Morogoro,Rural,Secondary,Government,1316688,6,10.92,10.38,0,1,Concrete/Modern,5,3,1,100.0,58.9,100.0,85.62
+67,Dar es Salaam,Rural,Primary,Self-employed,2970967,8,12.34,4.15,1,1,Brick/Iron Sheet,3,5,0,100.0,50.58,100.0,82.7
+45,Morogoro,Rural,College,Self-employed,324062,4,1.96,3.63,1,1,Concrete/Modern,16,5,0,70.28,99.07,100.0,89.28
+37,Mtwara,Rural,College,Self-employed,2255138,2,21.94,6.49,0,1,Mud/Thatch,2,3,0,95.89,100.0,86.55,94.53
+45,Zanzibar,Urban,College,Government,531978,2,5.83,4.34,1,0,Brick/Iron Sheet,13,2,0,96.6,92.53,100.0,96.2
+25,Arusha,Urban,No Education,Private Sector,1827536,9,1.54,0.89,0,1,Brick/Iron Sheet,16,3,0,100.0,21.15,100.0,72.4
+58,Arusha,Rural,Secondary,Self-employed,1889639,1,14.45,5.61,0,1,Brick/Iron Sheet,12,5,0,93.32,71.58,100.0,87.71
+56,Dodoma,Rural,Primary,Self-employed,1253891,7,15.61,0.72,0,1,Mud/Thatch,8,1,1,86.16,59.28,59.69,68.81
+18,Mwanza,Rural,College,Government,2516500,3,10.2,8.2,0,1,Concrete/Modern,0,3,0,91.67,98.55,100.0,96.58
+20,Dodoma,Urban,Secondary,Unemployed,802214,3,19.2,22.9,1,1,Mud/Thatch,16,5,0,87.66,30.19,82.8,66.09
+30,Tanga,Urban,College,Self-employed,1616589,2,13.37,2.37,0,1,Brick/Iron Sheet,15,3,0,95.87,89.68,100.0,94.95
+45,Dar es Salaam,Urban,Primary,Private Sector,1888205,6,21.39,2.94,1,0,Mud/Thatch,17,5,0,90.88,41.87,83.66,71.56
+66,Morogoro,Rural,Secondary,Unemployed,2892291,2,5.69,0.24,1,1,Concrete/Modern,1,2,0,100.0,93.39,100.0,97.69
+42,Mwanza,Rural,No Education,Unemployed,1860143,4,13.77,0.07,1,1,Mud/Thatch,13,5,0,100.0,24.15,95.13,71.99
+50,Mtwara,Rural,Secondary,Government,325687,9,83.0,12.72,1,1,Brick/Iron Sheet,16,4,1,51.7,47.71,97.42,64.02
+55,Tanga,Rural,Primary,Government,1444700,9,12.91,0.69,1,1,Brick/Iron Sheet,2,1,0,100.0,67.13,100.0,88.5
+23,Mtwara,Urban,Secondary,Government,2342365,6,1.21,2.95,1,1,Brick/Iron Sheet,1,5,0,100.0,73.17,100.0,90.61
+61,Arusha,Rural,Secondary,Government,2861856,4,7.3,8.45,0,0,Brick/Iron Sheet,7,3,0,100.0,81.33,100.0,93.47
+62,Arusha,Rural,Secondary,Private Sector,2171088,7,8.85,11.01,1,1,Brick/Iron Sheet,1,3,0,100.0,66.38,100.0,88.23
+49,Dodoma,Rural,Primary,Government,2213048,1,1.91,3.66,1,1,Brick/Iron Sheet,1,5,0,100.0,51.32,100.0,82.96
+62,Dar es Salaam,Rural,Secondary,Self-employed,2286505,4,32.94,4.16,1,1,Concrete/Modern,8,4,0,100.0,89.15,100.0,96.2
+64,Mwanza,Rural,Primary,Private Sector,129813,5,1.93,5.54,0,0,Mud/Thatch,5,5,0,65.32,8.73,40.34,38.02
+38,Kilimanjaro,Rural,Primary,Student,766041,8,1.95,16.27,1,0,Brick/Iron Sheet,11,2,0,95.59,5.69,75.08,57.97
+33,Tanga,Urban,No Education,Self-employed,1876839,2,24.67,4.61,1,0,Brick/Iron Sheet,8,4,1,100.0,10.78,100.0,68.77
+38,Tanga,Urban,Primary,Self-employed,1546374,5,6.26,4.1,1,1,Mud/Thatch,6,5,0,100.0,56.13,90.52,81.8
+28,Dodoma,Rural,Primary,Self-employed,2406907,6,0.65,0.07,1,1,Mud/Thatch,11,1,0,100.0,70.73,84.56,85.12
+54,Arusha,Urban,Secondary,Unemployed,373541,5,9.12,0.42,0,0,Concrete/Modern,4,4,0,72.33,73.32,100.0,80.98
+53,Dodoma,Urban,No Education,Unemployed,2552550,9,9.21,4.3,1,1,Concrete/Modern,15,5,0,100.0,6.52,100.0,67.28
+52,Morogoro,Urban,Primary,Government,1586056,1,0.67,13.76,0,1,Brick/Iron Sheet,4,1,1,100.0,21.82,100.0,72.64
+36,Mwanza,Rural,University,Student,1715181,3,35.94,10.08,0,1,Brick/Iron Sheet,11,5,0,89.72,93.97,100.0,94.29
+37,Dar es Salaam,Urban,No Education,Self-employed,2412857,2,7.85,20.25,1,0,Brick/Iron Sheet,8,2,0,100.0,0.0,100.0,65.0
+35,Zanzibar,Rural,Secondary,Unemployed,1450816,3,8.21,3.75,0,1,Brick/Iron Sheet,6,3,1,100.0,59.06,100.0,85.67
+64,Mbeya,Rural,Secondary,Unemployed,2513081,9,7.34,7.75,0,0,Mud/Thatch,10,5,0,100.0,82.28,60.65,82.0
+58,Mbeya,Urban,University,Government,2249496,9,9.43,9.18,0,1,Concrete/Modern,11,4,1,100.0,92.78,100.0,97.47
+66,Dodoma,Urban,Secondary,Self-employed,870348,2,3.07,5.22,1,0,Mud/Thatch,2,5,1,100.0,69.13,92.57,86.97
+31,Morogoro,Urban,Secondary,Self-employed,2673011,3,3.39,2.07,1,1,Concrete/Modern,16,5,0,100.0,95.59,100.0,98.46
+32,Mwanza,Rural,College,Self-employed,1006814,4,7.16,3.17,1,1,Brick/Iron Sheet,6,5,0,87.82,81.55,100.0,89.28
+48,Kilimanjaro,Urban,Primary,Self-employed,2921058,9,16.43,9.76,1,0,Concrete/Modern,9,5,0,100.0,54.67,100.0,84.13
+18,Mbeya,Rural,College,Self-employed,2137171,3,0.51,1.77,0,0,Mud/Thatch,14,4,0,100.0,96.05,70.17,89.67
+20,Mwanza,Urban,No Education,Government,558819,7,9.25,12.87,1,1,Concrete/Modern,1,4,0,91.79,0.0,100.0,62.13
+33,Dar es Salaam,Rural,University,Private Sector,1308060,3,16.44,1.31,1,1,Brick/Iron Sheet,12,5,0,100.0,100.0,100.0,100.0
+40,Mtwara,Rural,Primary,Private Sector,1259065,7,1.71,6.92,0,1,Brick/Iron Sheet,3,3,1,100.0,34.52,99.81,77.02
+28,Morogoro,Rural,Secondary,Self-employed,544874,7,0.15,4.98,0,0,Concrete/Modern,17,5,0,67.96,56.03,100.0,73.4
+29,Arusha,Rural,Primary,Private Sector,1591341,9,3.75,6.92,0,0,Mud/Thatch,0,4,0,88.46,33.76,67.99,63.17
+27,Mwanza,Urban,Secondary,Private Sector,2208701,2,8.87,2.88,1,1,Brick/Iron Sheet,1,2,0,100.0,75.65,100.0,91.48
+49,Dar es Salaam,Rural,No Education,Unemployed,2222891,6,1.49,13.49,1,0,Brick/Iron Sheet,1,5,1,100.0,0.0,97.44,64.23
+33,Kilimanjaro,Urban,College,Private Sector,907641,9,5.55,5.0,1,1,Brick/Iron Sheet,3,5,0,94.4,82.0,100.0,91.74
+25,Zanzibar,Rural,College,Self-employed,2828491,2,8.04,1.7,0,0,Brick/Iron Sheet,2,5,0,100.0,100.0,100.0,100.0
+55,Arusha,Rural,Primary,Government,2154048,2,9.14,5.09,0,1,Brick/Iron Sheet,16,5,1,100.0,44.34,100.0,80.52
+29,Zanzibar,Rural,College,Self-employed,1163692,5,3.21,1.69,1,0,Brick/Iron Sheet,13,1,1,100.0,84.02,93.75,92.53
+41,Kilimanjaro,Urban,Secondary,Student,644333,8,5.11,1.74,1,0,Brick/Iron Sheet,1,5,1,100.0,75.97,83.99,86.79
+45,Dar es Salaam,Urban,Secondary,Unemployed,1043831,9,15.07,2.55,0,1,Brick/Iron Sheet,15,4,1,95.76,69.04,85.72,83.4
+25,Mbeya,Rural,Primary,Private Sector,135709,2,28.34,9.57,0,1,Mud/Thatch,10,4,0,60.73,14.88,69.58,47.34
+45,Zanzibar,Rural,Primary,Private Sector,1978625,5,19.8,3.47,0,0,Concrete/Modern,12,1,0,98.7,35.73,100.0,77.05
+53,Arusha,Urban,Primary,Private Sector,1830841,7,8.31,5.68,0,0,Concrete/Modern,0,5,0,92.03,28.43,100.0,72.16
+43,Dodoma,Rural,Primary,Self-employed,1081652,6,5.28,2.49,0,0,Brick/Iron Sheet,1,3,0,99.15,41.41,75.34,71.8
+25,Tanga,Urban,College,Self-employed,329167,6,4.05,1.53,1,1,Brick/Iron Sheet,1,5,0,100.0,71.56,95.55,88.71
+67,Mwanza,Rural,No Education,Private Sector,405063,7,1.33,15.47,1,1,Brick/Iron Sheet,4,4,0,66.5,0.0,87.07,49.4
+45,Mbeya,Rural,College,Self-employed,969953,3,1.13,4.63,1,0,Brick/Iron Sheet,3,2,1,100.0,82.03,90.42,90.84
+45,Zanzibar,Rural,Primary,Self-employed,2683273,3,11.66,13.59,1,1,Brick/Iron Sheet,11,2,0,100.0,37.96,100.0,78.28
+54,Mtwara,Urban,Secondary,Private Sector,2416374,9,3.01,1.14,0,1,Mud/Thatch,2,3,0,100.0,85.63,98.27,94.45
+58,Mwanza,Rural,Secondary,Self-employed,813806,8,2.94,0.79,0,1,Brick/Iron Sheet,9,5,0,92.58,75.65,97.74,88.2
+53,Dodoma,Urban,College,Self-employed,2904940,5,63.17,9.68,1,1,Brick/Iron Sheet,17,1,1,100.0,95.77,100.0,98.52
+44,Kilimanjaro,Rural,Primary,Self-employed,1065398,6,2.08,5.71,1,0,Mud/Thatch,9,5,0,100.0,30.55,72.07,67.32
+34,Tanga,Urban,Primary,Self-employed,1098653,1,1.6,1.03,0,0,Brick/Iron Sheet,0,3,0,100.0,47.86,100.0,81.75
+26,Dar es Salaam,Rural,Primary,Private Sector,2990031,1,1.04,1.57,1,0,Brick/Iron Sheet,5,3,0,100.0,60.32,100.0,86.11
+50,Dodoma,Rural,No Education,Private Sector,2329523,4,8.67,8.06,1,1,Brick/Iron Sheet,10,3,0,100.0,6.2,100.0,67.17
+37,Dodoma,Rural,Primary,Government,2579802,2,9.88,3.02,0,1,Brick/Iron Sheet,1,2,0,100.0,50.6,100.0,82.71
+30,Kilimanjaro,Rural,Primary,Student,1122509,7,4.54,5.55,0,1,Concrete/Modern,6,5,1,99.58,23.65,100.0,73.13
+45,Morogoro,Rural,Primary,Self-employed,2857506,2,7.67,1.92,1,0,Brick/Iron Sheet,17,5,1,100.0,60.62,100.0,86.22
+65,Kilimanjaro,Rural,Secondary,Unemployed,850774,2,15.53,2.4,1,1,Brick/Iron Sheet,3,1,1,100.0,75.68,98.99,91.19
+46,Morogoro,Rural,Primary,Unemployed,2979271,5,17.04,23.4,0,0,Mud/Thatch,12,3,0,100.0,17.22,92.11,68.66
+30,Morogoro,Rural,Primary,Self-employed,1024993,4,31.68,1.42,0,0,Mud/Thatch,17,3,1,84.58,56.55,50.27,64.48
+63,Mbeya,Rural,Primary,Government,453791,8,17.39,3.53,1,1,Brick/Iron Sheet,12,4,1,88.3,53.74,87.31,75.91
+52,Mbeya,Rural,Secondary,Self-employed,1484525,4,8.32,9.3,0,0,Brick/Iron Sheet,16,4,1,100.0,61.07,91.53,83.84
+23,Arusha,Rural,College,Self-employed,1479087,6,1.98,1.37,1,0,Concrete/Modern,0,2,0,100.0,86.36,100.0,95.23
+35,Zanzibar,Rural,Secondary,Self-employed,963787,5,1.05,2.68,1,1,Brick/Iron Sheet,5,5,1,100.0,72.8,100.0,90.48
+68,Zanzibar,Urban,Secondary,Private Sector,216220,2,0.56,4.77,0,0,Brick/Iron Sheet,0,1,0,37.61,48.43,73.38,52.13
+22,Dar es Salaam,Urban,Primary,Private Sector,321421,8,10.98,3.28,0,0,Brick/Iron Sheet,7,1,1,80.47,35.89,60.42,58.85
+64,Zanzibar,Urban,Secondary,Unemployed,449317,2,16.48,3.08,1,0,Brick/Iron Sheet,16,3,0,83.8,61.21,100.0,80.75
+42,Mbeya,Urban,Primary,Student,888428,9,7.11,2.25,0,1,Concrete/Modern,14,1,0,80.17,42.41,100.0,72.91
+19,Arusha,Urban,Primary,Self-employed,1132469,9,0.56,4.42,0,1,Brick/Iron Sheet,17,3,1,100.0,53.77,96.42,82.75
+27,Arusha,Rural,Secondary,Unemployed,1431379,3,7.67,4.9,1,0,Mud/Thatch,6,5,0,100.0,62.02,84.78,82.14
+47,Morogoro,Urban,College,Government,1455898,4,27.45,5.3,0,1,Brick/Iron Sheet,15,1,0,87.87,86.98,100.0,91.2
+67,Kilimanjaro,Rural,No Education,Unemployed,2817405,8,9.1,0.36,1,0,Brick/Iron Sheet,6,3,1,100.0,34.49,100.0,77.07
+62,Dar es Salaam,Urban,Secondary,Government,2802708,9,16.58,4.99,0,1,Brick/Iron Sheet,16,5,1,100.0,82.17,100.0,93.76
+22,Morogoro,Urban,Secondary,Student,447186,3,16.1,15.31,1,1,Mud/Thatch,3,5,0,87.34,59.33,77.3,74.53
+50,Kilimanjaro,Rural,No Education,Private Sector,1517191,5,26.9,3.89,0,1,Brick/Iron Sheet,11,3,1,92.64,22.34,100.0,70.24
+18,Zanzibar,Rural,Primary,Private Sector,337103,8,14.71,6.28,1,1,Mud/Thatch,12,3,0,69.29,25.98,63.5,52.39
+35,Morogoro,Urban,Primary,Self-employed,789925,3,13.77,4.07,1,1,Concrete/Modern,3,2,0,100.0,22.3,100.0,72.81
+49,Mwanza,Rural,Primary,Government,2286394,7,2.67,9.65,0,1,Brick/Iron Sheet,0,5,0,100.0,31.78,100.0,76.12
+64,Zanzibar,Rural,Primary,Self-employed,1147146,8,0.62,13.27,1,1,Brick/Iron Sheet,0,3,0,100.0,22.72,100.0,72.95
+66,Kilimanjaro,Urban,Primary,Private Sector,1302532,3,7.29,1.02,1,1,Brick/Iron Sheet,6,5,0,100.0,49.74,100.0,82.41
+28,Dar es Salaam,Urban,Primary,Government,1952207,2,1.33,2.87,1,0,Mud/Thatch,8,1,0,100.0,54.03,73.02,75.82
+38,Kilimanjaro,Rural,Secondary,Student,2781478,7,32.75,2.49,1,0,Mud/Thatch,0,4,1,100.0,82.34,86.73,89.84
+43,Morogoro,Rural,Secondary,Government,860330,9,3.42,2.6,1,0,Concrete/Modern,15,4,0,96.73,57.6,100.0,84.01
+42,Morogoro,Rural,University,Self-employed,2930527,1,19.17,0.67,0,0,Mud/Thatch,17,3,1,100.0,100.0,100.0,100.0
+39,Dodoma,Rural,Primary,Student,2362402,3,4.9,8.4,1,1,Mud/Thatch,14,3,1,100.0,46.19,100.0,81.17
+44,Dar es Salaam,Urban,Secondary,Private Sector,2078745,5,3.9,0.18,0,1,Concrete/Modern,5,5,0,100.0,95.95,100.0,98.58
+66,Mtwara,Rural,College,Government,2719972,3,27.36,3.76,1,1,Brick/Iron Sheet,1,3,1,100.0,100.0,100.0,100.0
+30,Zanzibar,Urban,Secondary,Private Sector,2459830,1,4.51,5.42,1,0,Concrete/Modern,8,5,1,100.0,68.45,100.0,88.96
+50,Arusha,Rural,Primary,Self-employed,922564,7,4.95,1.16,0,0,Mud/Thatch,3,3,0,89.37,41.11,53.6,61.75
+51,Dar es Salaam,Rural,Secondary,Self-employed,2495406,7,1.12,11.81,0,1,Brick/Iron Sheet,12,5,0,100.0,65.4,100.0,87.89
+58,Arusha,Rural,Primary,Private Sector,950012,8,11.1,9.12,1,0,Brick/Iron Sheet,10,3,1,100.0,19.22,88.99,68.42
+52,Dar es Salaam,Urban,Primary,Private Sector,1564261,5,3.41,3.18,1,0,Concrete/Modern,12,2,1,100.0,49.18,100.0,82.21
+18,Dar es Salaam,Urban,Secondary,Self-employed,2243385,5,8.81,2.65,1,1,Mud/Thatch,10,5,1,100.0,81.87,81.82,88.2
+38,Kilimanjaro,Rural,Secondary,Private Sector,2168884,5,8.95,1.35,0,1,Brick/Iron Sheet,7,2,0,100.0,89.78,100.0,96.42
+65,Dar es Salaam,Rural,No Education,Self-employed,2648600,1,12.7,6.55,1,1,Concrete/Modern,6,2,0,100.0,25.94,100.0,74.08
+23,Dodoma,Rural,University,Government,848810,5,13.67,0.71,0,1,Brick/Iron Sheet,15,2,0,83.84,100.0,93.39,92.36
+45,Mtwara,Urban,Secondary,Self-employed,1103941,6,7.22,5.7,0,1,Brick/Iron Sheet,2,2,0,94.89,70.15,81.57,82.24
+34,Morogoro,Rural,Primary,Unemployed,2303463,1,4.02,9.24,0,1,Mud/Thatch,16,1,0,94.79,45.81,86.66,75.21
+22,Tanga,Urban,University,Unemployed,2085404,7,18.17,1.3,0,1,Mud/Thatch,17,4,0,100.0,100.0,60.9,88.27
+48,Arusha,Rural,Primary,Unemployed,2693398,1,3.71,10.07,1,0,Brick/Iron Sheet,14,1,0,100.0,45.73,100.0,81.01
+22,Morogoro,Urban,University,Self-employed,1959062,2,7.08,0.17,1,1,Brick/Iron Sheet,16,3,1,100.0,100.0,100.0,100.0
+55,Tanga,Rural,Secondary,Unemployed,2226861,2,5.13,12.2,1,0,Concrete/Modern,10,3,0,100.0,55.42,100.0,84.4
+20,Mtwara,Urban,No Education,Unemployed,2151723,5,19.32,0.63,0,0,Brick/Iron Sheet,4,4,0,100.0,27.41,100.0,74.59
+40,Mtwara,Rural,Secondary,Government,2194885,7,5.65,5.19,1,1,Brick/Iron Sheet,15,4,1,100.0,74.43,100.0,91.05
+54,Arusha,Rural,Secondary,Government,1148939,1,4.88,1.44,1,1,Concrete/Modern,14,4,1,100.0,83.22,100.0,94.13
+54,Arusha,Urban,Secondary,Self-employed,594829,1,11.71,9.06,0,1,Mud/Thatch,9,2,0,69.11,66.15,77.41,70.56
+27,Mtwara,Urban,University,Student,496456,1,9.22,3.59,1,1,Brick/Iron Sheet,13,1,0,95.4,95.77,98.27,96.39
+27,Tanga,Urban,Secondary,Unemployed,1613993,6,1.13,0.73,1,1,Brick/Iron Sheet,1,3,1,100.0,88.6,100.0,96.01
+36,Dar es Salaam,Urban,Secondary,Private Sector,2242841,2,7.1,4.23,1,1,Mud/Thatch,15,1,0,100.0,77.97,93.45,90.32
+34,Zanzibar,Rural,College,Private Sector,998704,1,13.3,2.62,1,1,Concrete/Modern,7,1,1,100.0,90.51,100.0,96.68
+38,Mwanza,Rural,Secondary,Self-employed,275037,6,48.38,5.42,1,0,Brick/Iron Sheet,14,1,0,52.94,58.58,86.36,64.94
+31,Morogoro,Rural,Primary,Self-employed,308606,2,9.92,10.68,0,0,Brick/Iron Sheet,9,4,0,75.37,33.38,92.87,65.92
+26,Kilimanjaro,Rural,College,Self-employed,1149458,6,4.63,2.63,1,1,Brick/Iron Sheet,4,4,0,100.0,100.0,100.0,100.0
+63,Morogoro,Rural,Primary,Self-employed,2976262,8,2.56,1.71,0,0,Brick/Iron Sheet,15,3,0,100.0,56.73,100.0,84.86
+18,Kilimanjaro,Urban,Secondary,Private Sector,1129516,2,20.62,0.07,1,1,Mud/Thatch,11,3,0,100.0,77.01,96.2,90.81
+68,Tanga,Urban,College,Unemployed,1796609,9,16.85,4.28,1,1,Brick/Iron Sheet,12,3,0,100.0,83.89,100.0,94.36
+62,Kilimanjaro,Rural,Secondary,Unemployed,128885,8,2.66,2.57,1,1,Brick/Iron Sheet,8,1,1,76.09,70.47,82.55,76.06
+30,Arusha,Rural,Secondary,Unemployed,496419,1,2.24,2.35,1,1,Concrete/Modern,16,4,0,100.0,73.62,100.0,90.77
+21,Zanzibar,Urban,Secondary,Self-employed,2912753,7,12.56,1.01,1,1,Mud/Thatch,11,2,0,100.0,94.88,90.92,95.48
+18,Zanzibar,Urban,Primary,Self-employed,495460,6,3.78,2.81,0,0,Mud/Thatch,4,1,1,100.0,36.48,15.99,52.56
+66,Arusha,Rural,College,Unemployed,460466,6,3.66,20.82,1,0,Brick/Iron Sheet,11,5,0,74.34,37.18,81.3,63.42
+57,Dodoma,Rural,Primary,Government,1479339,6,1.65,1.77,1,0,Concrete/Modern,0,1,1,100.0,33.49,100.0,76.72
+49,Tanga,Urban,No Education,Self-employed,2218736,6,3.06,4.58,1,1,Brick/Iron Sheet,15,4,1,100.0,34.73,100.0,77.16
+51,Dodoma,Rural,Primary,Unemployed,1943529,7,5.58,7.49,1,0,Brick/Iron Sheet,11,5,0,100.0,36.14,98.89,77.32
+45,Dodoma,Rural,Secondary,Private Sector,919973,3,13.2,6.91,0,1,Concrete/Modern,8,1,0,82.79,69.89,100.0,83.44
+48,Morogoro,Urban,Secondary,Unemployed,2750503,6,4.1,1.99,0,1,Concrete/Modern,12,4,1,100.0,83.54,100.0,94.24
+25,Mtwara,Urban,College,Private Sector,1218844,3,3.98,4.72,1,0,Brick/Iron Sheet,16,4,0,100.0,81.57,100.0,93.55
+56,Morogoro,Rural,Primary,Private Sector,2977746,7,3.35,10.25,1,0,Brick/Iron Sheet,16,2,0,100.0,59.24,100.0,85.73
+43,Mtwara,Rural,Primary,Self-employed,1528926,7,6.51,0.08,0,1,Mud/Thatch,3,1,1,89.65,48.91,68.35,69.0
+51,Mwanza,Urban,No Education,Unemployed,1606744,8,1.99,2.86,1,1,Concrete/Modern,13,4,1,100.0,20.96,100.0,72.34
+20,Kilimanjaro,Rural,Primary,Self-employed,2367976,2,6.65,1.27,1,1,Brick/Iron Sheet,6,3,1,100.0,57.82,100.0,85.24
+67,Mtwara,Rural,Secondary,Unemployed,2947745,9,12.18,2.46,0,1,Concrete/Modern,2,4,0,100.0,92.76,100.0,97.47
+29,Arusha,Rural,No Education,Unemployed,1544359,5,0.3,2.69,1,1,Mud/Thatch,0,2,0,100.0,18.11,72.01,62.94
+18,Morogoro,Rural,Primary,Self-employed,1557913,9,0.1,6.87,1,1,Brick/Iron Sheet,11,4,0,100.0,24.46,100.0,73.56
+61,Tanga,Rural,Primary,Self-employed,2067754,5,0.78,0.49,1,1,Brick/Iron Sheet,14,1,0,100.0,58.76,100.0,85.56
+22,Kilimanjaro,Rural,No Education,Self-employed,2797851,7,7.67,3.59,1,1,Brick/Iron Sheet,10,1,0,100.0,23.29,100.0,73.15
+47,Mwanza,Rural,Primary,Private Sector,2132355,9,19.27,4.15,1,0,Mud/Thatch,9,5,0,98.29,59.33,79.52,79.02
+47,Mtwara,Rural,Primary,Private Sector,1346729,4,0.05,3.41,1,1,Brick/Iron Sheet,1,1,0,100.0,37.17,98.53,77.57
+34,Mwanza,Rural,Secondary,Unemployed,2881652,2,27.59,6.58,0,0,Concrete/Modern,3,5,0,100.0,75.17,100.0,91.31
+65,Tanga,Rural,College,Unemployed,2191219,9,1.12,2.42,0,0,Brick/Iron Sheet,16,3,0,100.0,100.0,95.94,98.78
+64,Dodoma,Urban,Secondary,Government,2861839,2,18.45,14.5,1,0,Mud/Thatch,16,2,0,100.0,72.66,100.0,90.43
+40,Zanzibar,Rural,University,Private Sector,1088167,3,6.59,3.29,1,1,Brick/Iron Sheet,7,3,1,100.0,98.08,100.0,99.33
+32,Tanga,Rural,Primary,Government,123331,2,10.77,4.23,0,0,Brick/Iron Sheet,13,5,0,69.1,26.29,100.0,63.39
+54,Mbeya,Urban,Secondary,Self-employed,123004,3,7.15,8.73,1,0,Mud/Thatch,3,4,1,99.68,38.37,53.68,64.42
+38,Tanga,Rural,University,Private Sector,548013,6,6.48,1.61,0,1,Brick/Iron Sheet,5,4,1,99.8,100.0,100.0,99.93
+31,Mwanza,Rural,Primary,Self-employed,2386319,3,18.01,0.39,1,1,Concrete/Modern,3,3,0,100.0,51.84,100.0,83.14
+19,Arusha,Urban,University,Self-employed,1031253,8,14.1,6.15,0,1,Brick/Iron Sheet,2,4,0,73.57,100.0,100.0,90.75
+28,Morogoro,Rural,No Education,Self-employed,1761908,6,6.6,3.3,1,1,Brick/Iron Sheet,5,5,0,100.0,21.04,100.0,72.36
+68,Arusha,Urban,Primary,Self-employed,1944053,7,1.18,11.34,1,1,Brick/Iron Sheet,6,2,1,100.0,41.65,100.0,79.58
+56,Mwanza,Urban,No Education,Self-employed,2479412,1,1.23,20.28,0,1,Brick/Iron Sheet,13,1,0,100.0,6.97,100.0,67.44
+55,Morogoro,Rural,Secondary,Self-employed,642955,3,16.17,2.55,1,0,Mud/Thatch,11,5,1,86.49,71.1,78.19,78.62
+51,Mbeya,Urban,Secondary,Private Sector,1485777,3,7.54,2.68,1,1,Concrete/Modern,15,5,1,100.0,70.32,100.0,89.61
+55,Zanzibar,Rural,Secondary,Government,1747069,2,6.57,2.62,0,1,Concrete/Modern,7,1,1,100.0,79.3,100.0,92.75
+67,Kilimanjaro,Rural,Primary,Self-employed,1175878,7,11.41,1.96,0,1,Brick/Iron Sheet,1,1,0,87.69,40.25,87.95,71.16
+51,Mwanza,Rural,Primary,Self-employed,696822,9,19.58,7.61,0,1,Brick/Iron Sheet,12,2,1,89.38,47.31,100.0,77.84
+35,Mtwara,Rural,No Education,Unemployed,1898278,4,9.91,7.11,0,1,Concrete/Modern,7,2,1,100.0,0.0,100.0,65.0
+47,Mwanza,Urban,Primary,Private Sector,473145,5,14.39,3.26,1,1,Brick/Iron Sheet,15,2,0,80.25,30.25,75.48,61.32
+32,Mwanza,Rural,University,Self-employed,2153413,3,14.49,0.23,1,0,Brick/Iron Sheet,3,4,0,100.0,100.0,100.0,100.0
+44,Morogoro,Urban,Primary,Student,2591637,9,4.4,1.85,1,1,Mud/Thatch,15,5,0,100.0,59.23,88.45,82.27
+68,Dar es Salaam,Rural,College,Self-employed,894300,4,3.2,1.73,1,1,Brick/Iron Sheet,5,1,0,87.0,92.28,89.81,89.69
+51,Tanga,Rural,College,Self-employed,785611,5,16.15,8.33,0,1,Concrete/Modern,3,5,1,68.68,79.99,100.0,82.03
+69,Dar es Salaam,Urban,Primary,Private Sector,2537205,1,4.73,0.46,0,1,Mud/Thatch,15,5,0,100.0,58.39,100.0,85.43
+55,Mbeya,Rural,Secondary,Government,1757387,2,23.37,8.19,1,0,Mud/Thatch,12,2,1,100.0,67.22,74.62,80.91
+50,Mtwara,Rural,No Education,Self-employed,2891241,9,0.72,5.53,0,0,Brick/Iron Sheet,4,2,1,100.0,24.31,100.0,73.51
+41,Zanzibar,Rural,No Education,Self-employed,2737174,2,0.6,6.59,0,0,Concrete/Modern,14,5,0,100.0,31.81,100.0,76.13
+32,Dodoma,Rural,No Education,Student,1320985,5,26.17,2.83,1,1,Brick/Iron Sheet,7,2,0,94.06,28.22,100.0,72.8
+47,Mbeya,Urban,Secondary,Unemployed,445744,8,10.45,5.69,0,1,Brick/Iron Sheet,6,4,0,61.83,63.33,91.55,71.27
+59,Dodoma,Rural,Primary,Government,2128594,3,4.77,4.7,1,0,Brick/Iron Sheet,13,1,1,100.0,40.28,100.0,79.1
+68,Dodoma,Urban,Secondary,Unemployed,1943441,6,14.07,7.33,0,0,Brick/Iron Sheet,6,5,0,100.0,65.04,93.4,85.78
+34,Zanzibar,Rural,Secondary,Private Sector,2704325,4,11.16,2.96,1,1,Mud/Thatch,6,1,0,100.0,77.09,80.64,86.17
+22,Arusha,Rural,Primary,Private Sector,2861623,7,7.58,3.2,1,0,Mud/Thatch,17,4,0,100.0,61.44,100.0,86.5
+46,Dar es Salaam,Rural,Secondary,Self-employed,1776850,3,1.04,5.16,1,1,Brick/Iron Sheet,9,2,1,100.0,74.67,100.0,91.14
+21,Mwanza,Rural,Secondary,Government,1998761,6,16.72,0.57,0,0,Brick/Iron Sheet,17,3,1,100.0,82.63,83.43,88.95
+27,Kilimanjaro,Urban,No Education,Unemployed,1615412,9,20.1,2.87,1,1,Concrete/Modern,13,4,0,100.0,19.53,100.0,71.83
+34,Dodoma,Rural,Primary,Self-employed,1956759,1,1.89,17.87,1,0,Brick/Iron Sheet,9,3,0,100.0,17.18,100.0,71.01
+27,Mtwara,Rural,Secondary,Private Sector,532184,3,19.01,0.19,1,1,Mud/Thatch,6,1,1,100.0,63.47,64.33,76.51
+34,Mbeya,Urban,Primary,Self-employed,1309725,2,21.02,1.9,1,1,Brick/Iron Sheet,6,5,0,100.0,41.63,100.0,79.57
+37,Arusha,Rural,Secondary,Private Sector,2436806,8,7.97,1.89,1,0,Brick/Iron Sheet,6,2,0,100.0,85.43,96.1,93.73
+41,Dodoma,Urban,Primary,Unemployed,527991,7,10.68,5.02,0,1,Mud/Thatch,4,4,0,63.76,32.11,38.38,45.07
+22,Arusha,Rural,Primary,Unemployed,1983578,2,4.82,0.56,1,1,Concrete/Modern,0,2,0,100.0,39.87,100.0,78.96
+51,Arusha,Rural,Primary,Unemployed,758139,6,3.31,4.95,1,1,Concrete/Modern,13,3,0,93.08,26.96,100.0,72.02
+23,Dodoma,Rural,Primary,Unemployed,2498559,3,12.8,0.5,1,1,Mud/Thatch,17,3,0,100.0,57.1,100.0,84.98
+19,Morogoro,Urban,Secondary,Self-employed,2514383,8,19.8,0.5,0,0,Brick/Iron Sheet,12,5,0,100.0,84.15,100.0,94.45
+30,Tanga,Rural,Primary,Private Sector,2772922,3,10.62,6.51,1,1,Mud/Thatch,7,3,0,100.0,57.08,100.0,84.98
+60,Mtwara,Rural,Secondary,Government,2120937,9,7.17,1.96,1,1,Brick/Iron Sheet,7,5,0,100.0,83.59,100.0,94.25
+60,Mwanza,Rural,College,Government,222989,1,1.73,18.95,0,1,Brick/Iron Sheet,9,4,0,57.96,55.9,100.0,69.85
+65,Mwanza,Rural,Secondary,Unemployed,926547,5,0.55,0.19,0,1,Brick/Iron Sheet,16,5,0,79.91,70.8,95.56,81.42
+28,Mtwara,Urban,Secondary,Self-employed,376393,3,5.9,2.94,0,0,Concrete/Modern,5,3,0,85.82,60.96,100.0,81.37
+68,Morogoro,Rural,Primary,Unemployed,1917119,6,0.51,0.6,1,1,Mud/Thatch,14,1,1,100.0,56.62,87.94,81.2
+64,Mwanza,Rural,Primary,Self-employed,2831801,2,8.42,2.16,0,1,Brick/Iron Sheet,14,5,0,100.0,57.43,100.0,85.1
+40,Arusha,Rural,Secondary,Self-employed,1959608,9,4.82,31.66,1,0,Concrete/Modern,15,2,1,100.0,23.48,100.0,73.22
+33,Zanzibar,Rural,Primary,Unemployed,399850,6,14.15,10.98,1,1,Brick/Iron Sheet,7,1,0,100.0,21.73,77.35,65.81
+48,Mbeya,Rural,Secondary,Self-employed,1509761,7,3.65,0.25,1,1,Mud/Thatch,14,5,0,91.36,74.53,93.21,86.02
+28,Dar es Salaam,Rural,Primary,Government,141139,5,8.99,4.14,1,0,Mud/Thatch,2,2,0,83.07,27.5,41.07,51.02
+33,Mwanza,Rural,Secondary,Self-employed,739207,9,7.72,5.22,0,0,Brick/Iron Sheet,5,1,0,88.42,71.41,69.53,76.8
+25,Mtwara,Urban,College,Self-employed,871965,1,0.05,1.18,0,1,Concrete/Modern,7,5,1,97.92,81.14,100.0,92.67
+21,Zanzibar,Urban,College,Unemployed,403446,5,0.75,0.78,1,0,Concrete/Modern,15,4,0,90.73,92.06,100.0,93.98
+57,Dodoma,Urban,Secondary,Self-employed,1498558,6,3.43,11.74,0,0,Concrete/Modern,14,2,0,96.51,61.13,100.0,85.18
+21,Tanga,Urban,Secondary,Government,1085663,7,21.39,17.34,0,1,Concrete/Modern,12,4,1,83.78,58.67,100.0,79.86
+42,Mtwara,Rural,Secondary,Unemployed,2861158,4,1.59,24.08,1,0,Brick/Iron Sheet,14,3,0,100.0,49.01,100.0,82.15
+20,Arusha,Rural,Secondary,Self-employed,1817479,1,12.41,7.8,1,1,Concrete/Modern,17,5,0,100.0,59.91,100.0,85.97
+49,Tanga,Rural,No Education,Unemployed,1898432,8,36.26,5.45,1,1,Concrete/Modern,12,5,0,90.19,17.25,100.0,67.6
+20,Mbeya,Rural,Primary,Self-employed,1145716,4,15.63,2.12,0,1,Brick/Iron Sheet,7,2,0,90.41,54.47,100.0,80.71
+44,Mbeya,Rural,Primary,Unemployed,2255091,3,2.78,0.94,1,1,Brick/Iron Sheet,13,5,0,100.0,47.66,100.0,81.68
+46,Morogoro,Rural,University,Government,2021458,7,23.9,0.41,0,1,Brick/Iron Sheet,10,3,0,97.29,100.0,100.0,99.05
+49,Kilimanjaro,Rural,Primary,Government,2095633,2,0.98,5.91,1,0,Mud/Thatch,5,5,0,100.0,46.79,99.43,81.21
+67,Morogoro,Rural,Secondary,Private Sector,2220700,8,6.31,7.68,1,1,Mud/Thatch,0,1,0,100.0,71.59,85.06,85.57
+68,Zanzibar,Rural,Secondary,Self-employed,2653589,6,21.85,8.76,1,1,Concrete/Modern,1,4,1,100.0,91.73,100.0,97.11
+36,Tanga,Urban,Secondary,Government,2103345,7,10.25,12.25,0,0,Concrete/Modern,12,3,1,100.0,67.87,100.0,88.75
+38,Kilimanjaro,Rural,Secondary,Self-employed,1798413,5,5.34,10.6,1,1,Mud/Thatch,0,3,1,100.0,61.33,78.28,79.95
+22,Dodoma,Rural,Primary,Self-employed,2631069,9,3.46,41.3,0,1,Brick/Iron Sheet,3,4,1,100.0,0.0,100.0,65.0
+35,Arusha,Rural,Secondary,Private Sector,544503,5,4.7,1.4,0,1,Concrete/Modern,1,4,1,100.0,64.15,100.0,87.45
+45,Tanga,Urban,College,Unemployed,237799,5,7.11,7.2,1,1,Brick/Iron Sheet,15,3,1,93.78,76.23,81.59,83.98
+59,Morogoro,Rural,Primary,Unemployed,865820,3,3.84,4.41,0,1,Brick/Iron Sheet,2,4,0,93.39,39.47,100.0,76.5
+39,Dar es Salaam,Rural,Primary,Private Sector,281789,1,34.73,1.51,1,1,Brick/Iron Sheet,16,2,0,89.86,37.4,100.0,74.54
+38,Kilimanjaro,Urban,Secondary,Self-employed,2622795,2,27.04,20.06,1,1,Concrete/Modern,4,4,0,100.0,52.14,100.0,83.25
+23,Kilimanjaro,Rural,College,Private Sector,534352,8,20.45,11.41,1,0,Concrete/Modern,7,1,0,89.04,75.45,100.0,87.57
+18,Arusha,Rural,No Education,Self-employed,2049834,1,5.48,0.69,1,0,Brick/Iron Sheet,11,1,1,100.0,17.15,100.0,71.0
+22,Mwanza,Rural,Secondary,Government,1787745,7,11.75,0.13,1,1,Mud/Thatch,11,2,0,100.0,75.26,81.08,85.66
+58,Mbeya,Urban,College,Student,1594201,5,23.31,5.83,1,1,Concrete/Modern,0,4,0,100.0,88.49,100.0,95.97
+29,Mbeya,Rural,Primary,Government,902009,3,19.0,4.63,0,0,Mud/Thatch,0,1,0,63.48,40.18,37.54,47.55
+43,Dar es Salaam,Rural,University,Self-employed,211776,7,5.35,13.73,1,0,Brick/Iron Sheet,14,5,0,92.01,78.05,65.51,79.17
+63,Zanzibar,Rural,Secondary,Unemployed,985678,9,1.19,1.33,1,0,Mud/Thatch,16,4,0,96.89,70.08,65.74,78.16
+51,Zanzibar,Urban,Secondary,Self-employed,1906860,2,0.79,0.44,1,1,Brick/Iron Sheet,1,2,0,100.0,74.05,100.0,90.92
+66,Dodoma,Rural,Secondary,Unemployed,2979271,8,8.61,1.5,1,1,Brick/Iron Sheet,16,4,0,100.0,93.6,100.0,97.76
+31,Tanga,Rural,Primary,Unemployed,2710776,9,10.29,0.1,1,1,Mud/Thatch,8,3,0,100.0,69.94,93.1,87.41
+43,Mtwara,Rural,Primary,Private Sector,312803,3,18.96,0.18,0,1,Concrete/Modern,11,3,0,66.35,23.43,100.0,61.42
+62,Mwanza,Rural,Primary,Self-employed,2355913,2,3.46,12.32,0,1,Mud/Thatch,3,1,0,100.0,36.97,85.32,73.53
+44,Morogoro,Urban,Primary,Student,2695025,7,1.83,2.17,1,1,Concrete/Modern,12,3,1,100.0,63.68,100.0,87.29
+26,Mtwara,Rural,Primary,Self-employed,2554244,5,4.76,2.65,1,0,Concrete/Modern,3,2,0,100.0,52.84,100.0,83.49
+43,Mtwara,Urban,College,Self-employed,121341,5,4.36,0.09,1,0,Brick/Iron Sheet,6,1,0,75.31,72.92,64.06,71.1
+64,Kilimanjaro,Rural,College,Unemployed,2556850,5,1.42,1.58,1,1,Brick/Iron Sheet,13,2,1,100.0,100.0,100.0,100.0
+39,Dar es Salaam,Urban,Secondary,Government,1354329,4,11.16,8.17,0,0,Brick/Iron Sheet,8,2,0,91.88,51.95,92.79,78.18
+64,Mbeya,Rural,College,Private Sector,2505626,5,7.11,4.78,1,1,Concrete/Modern,0,3,0,100.0,95.95,100.0,98.58
+47,Dodoma,Rural,Secondary,Government,2970581,4,12.77,7.01,1,1,Brick/Iron Sheet,0,3,0,100.0,78.09,100.0,92.33
+60,Zanzibar,Rural,Primary,Government,2920928,6,4.35,2.96,1,1,Brick/Iron Sheet,3,2,1,100.0,72.11,100.0,90.24
+65,Dar es Salaam,Urban,Primary,Self-employed,919745,4,3.94,1.85,1,1,Brick/Iron Sheet,0,3,0,86.69,28.06,99.2,69.92
+34,Kilimanjaro,Rural,Secondary,Self-employed,2506196,2,6.4,3.3,1,1,Brick/Iron Sheet,9,3,0,100.0,72.35,100.0,90.32
+43,Morogoro,Urban,Secondary,Self-employed,178840,9,20.99,1.95,1,0,Concrete/Modern,1,3,1,100.0,61.13,100.0,86.39
+53,Dodoma,Rural,Primary,Private Sector,1314343,2,0.41,9.13,1,1,Mud/Thatch,14,4,0,100.0,35.29,100.0,77.35
+18,Kilimanjaro,Rural,Secondary,Self-employed,261297,9,16.34,1.77,1,1,Brick/Iron Sheet,2,2,1,100.0,61.2,82.33,81.12
+25,Mbeya,Urban,No Education,Self-employed,2031375,6,4.6,5.39,1,0,Brick/Iron Sheet,8,5,0,100.0,12.34,100.0,69.32
+66,Mbeya,Rural,Secondary,Government,149156,9,19.28,0.74,1,0,Concrete/Modern,16,2,0,65.59,51.87,100.0,71.11
+52,Mbeya,Rural,College,Student,2405433,9,16.21,5.81,1,1,Mud/Thatch,12,1,1,100.0,100.0,87.61,96.28
+69,Dar es Salaam,Urban,Secondary,Private Sector,2284605,3,4.29,12.23,1,1,Brick/Iron Sheet,2,3,0,100.0,71.18,100.0,89.91
+32,Dar es Salaam,Rural,University,Private Sector,1831765,1,11.84,4.69,1,1,Mud/Thatch,3,3,1,100.0,100.0,100.0,100.0
+64,Zanzibar,Rural,College,Private Sector,125938,1,1.74,4.1,1,1,Brick/Iron Sheet,3,5,1,96.16,95.36,100.0,97.03
+39,Zanzibar,Rural,College,Unemployed,2256316,3,22.66,16.24,0,1,Concrete/Modern,10,1,0,100.0,81.07,100.0,93.37
+31,Morogoro,Urban,University,Unemployed,2644898,5,5.18,4.94,1,0,Concrete/Modern,6,4,1,100.0,100.0,100.0,100.0
+43,Dodoma,Rural,College,Private Sector,2187001,3,6.08,1.5,1,1,Concrete/Modern,10,2,0,100.0,100.0,100.0,100.0
+45,Arusha,Rural,Secondary,Private Sector,2920711,9,12.23,1.73,1,1,Brick/Iron Sheet,10,4,1,100.0,90.54,100.0,96.69
+40,Arusha,Rural,No Education,Unemployed,2781722,9,17.19,6.11,1,0,Concrete/Modern,9,1,0,100.0,17.23,100.0,71.03
+31,Kilimanjaro,Rural,Primary,Government,502681,3,2.7,6.65,0,1,Brick/Iron Sheet,4,5,0,87.89,17.17,100.0,66.77
+41,Mbeya,Rural,Secondary,Unemployed,1831530,3,10.83,1.81,0,1,Concrete/Modern,12,1,0,94.13,81.39,100.0,91.43
+19,Dodoma,Urban,Primary,Self-employed,1264395,5,4.98,2.12,0,0,Brick/Iron Sheet,11,5,0,100.0,42.85,92.86,77.85
+62,Mtwara,Urban,Primary,Private Sector,2679025,2,4.6,23.58,1,1,Brick/Iron Sheet,9,4,0,100.0,34.36,100.0,77.03
+43,Dar es Salaam,Rural,University,Unemployed,241900,6,11.71,0.54,1,1,Mud/Thatch,6,4,1,95.59,97.57,61.92,86.18
+31,Tanga,Urban,College,Unemployed,1458308,7,4.9,2.59,1,1,Brick/Iron Sheet,11,1,1,100.0,89.09,100.0,96.18
+68,Mwanza,Rural,College,Self-employed,2994805,9,4.25,0.32,1,0,Mud/Thatch,14,1,0,100.0,100.0,83.59,95.08
+24,Morogoro,Rural,Primary,Private Sector,2601579,6,18.07,8.6,1,1,Concrete/Modern,4,3,0,100.0,55.58,100.0,84.45
+20,Mbeya,Urban,No Education,Self-employed,2735009,3,1.07,0.48,0,0,Brick/Iron Sheet,13,5,1,100.0,37.71,100.0,78.2
+64,Mbeya,Urban,No Education,Private Sector,2235012,5,11.27,5.6,0,0,Concrete/Modern,11,3,0,95.99,22.91,100.0,71.61
+40,Mbeya,Urban,Primary,Private Sector,2399782,4,2.86,0.29,1,1,Mud/Thatch,10,2,0,100.0,63.74,82.52,82.07
+63,Dar es Salaam,Rural,No Education,Unemployed,1671801,5,0.16,5.59,1,1,Mud/Thatch,4,2,0,100.0,13.08,63.05,58.49
+60,Dar es Salaam,Rural,No Education,Student,2118391,8,1.82,9.26,1,1,Concrete/Modern,15,1,0,100.0,13.29,100.0,69.65
+64,Mwanza,Rural,College,Unemployed,768875,8,9.33,2.54,1,1,Brick/Iron Sheet,17,4,0,100.0,91.03,92.25,94.54
+62,Mtwara,Urban,Secondary,Student,695983,6,12.35,3.69,1,0,Brick/Iron Sheet,11,2,1,70.42,59.4,97.16,74.59
+35,Dodoma,Urban,Primary,Self-employed,353078,1,0.21,2.57,0,1,Concrete/Modern,4,2,0,100.0,41.79,100.0,79.63
+55,Mbeya,Rural,No Education,Student,2964039,8,0.37,1.79,1,1,Brick/Iron Sheet,15,3,0,100.0,18.74,100.0,71.56
